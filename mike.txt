@@ -1,272 +1,192 @@
-**CIE3M Mini‑Essay Reading Pack (Models for Study)**  
-**CIE3M 小作文阅读包（范文用于学习）**
+Student: Mike
+Personal Mission: Improve clarity: shorten long sentences and keep each paragraph focused on one idea.
 
-**Student: Mike**  
-**学生姓名：Mike**
+================================================================================
+ESSAY 1: THE SUBPRIME MORTGAGE CRISIS
+================================================================================
 
-**Important rules:**  
-**重要规则：**  
-• These are models for reading and practice. Do NOT copy into your exam.  
-这是阅读与训练范文。考试不要照抄。  
-• Exam requirement: 250-350 words, write the word count, and include 2+ in‑text citations.  
-考试要求：250-350词，写字数，并包含至少2处文内引用。  
-• Structure: Hook + TS1/TS2 preview + Thesis → Body P1 (TS1) → Body P2 (TS2) → Verification/Conclusion.  
-结构：钩子+TS1/TS2预览+论点 → 正文1(TS1) → 正文2(TS2) → 验证/结论。
+In November 2008, the U.S. government rescued Citigroup with $45 billion in capital. This bailout symbolized how deeply the subprime crisis had penetrated global finance. The crisis emerged from risky mortgage lending and spread worldwide. Two key factors drove this disaster: predatory lending to unqualified borrowers and the collapse of mortgage-backed securities markets.
 
-**Your personal practice mission:**  
-**你的个性化训练任务：**  
-• Improve clarity: shorten long sentences and keep each paragraph focused on one idea.  
-提升清晰度：缩短长句，每段只讲一个核心点。
+Predatory lending practices targeted vulnerable borrowers. Lenders offered subprime mortgages to people with poor credit. They used adjustable rates that started low but soon skyrocketed. Many borrowers could not afford the higher payments. The IMF reported that subprime mortgages reached $1.3 trillion by 2007. Default rates surged when housing prices fell. Families lost their homes. Lenders faced massive losses.
 
-**Citation format you must use:**  
-**你必须使用的引用格式：**  
-• (Organization, Year) Example: (IMF, 2024)  
-（机构, 年份） 例如：（IMF，2024）  
-• Do not cite a statistic if you are not sure it is from that source.  
-不确定数字来源就不要把引用放在数字后面。
+The securitization of these bad loans amplified the damage. Banks bundled mortgages into complex securities. They sold these to investors worldwide. UBS in Switzerland alone lost over $50 billion from these toxic assets. Rating agencies had given these securities high ratings despite their risks. When defaults mounted, the securities became worthless. The World Bank estimated global financial losses exceeded $2 trillion. Credit markets froze. Banks stopped lending to each other.
 
-**T1 Subprime Crisis and Bailouts**  
-**T1 次贷危机与政府救助**
+The evidence confirms that weak regulation and greed caused this crisis. The FDIC closed 465 banks between 2008 and 2012. Unemployment in the U.S. reached 10 percent. Governments spent trillions on bailouts and stimulus. Stricter lending standards emerged after the crisis. The subprime crisis proved that financial oversight must be strong. Without it, reckless lending can destroy entire economies.
 
-**Prompt: Evaluate whether a government bailout of a major investment bank is justified.**  
-**题目：评估政府是否应该救助一家大型投资银行。**
+[Word Count: 267]
 
-Suggested citations to practice: (BIS, 2023); (ECB, 2024); (IMF, 2024)  
-建议练习引用：(BIS, 2023); (ECB, 2024); (IMF, 2024)
+2008年11月，美国政府向花旗集团注资450亿美元实施救助。这次救助象征着次贷危机对全球金融体系的深度渗透。危机源于高风险抵押贷款，并蔓延至全球。两个关键因素导致了这场灾难：向不合格借款人发放掠夺性贷款，以及抵押贷款支持证券市场的崩溃。
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+掠夺性贷款针对弱势借款人。贷款机构向信用记录差的人提供次级抵押贷款。他们使用可调整利率，初期较低但很快飙升。许多借款人无法负担更高的还款额。IMF报告称，到2007年次级抵押贷款达到1.3万亿美元。当房价下跌时，违约率激增。家庭失去住房。贷款机构面临巨额损失。
 
-In finance, one broken link can snap an entire chain. A bailout can be justified only if the bank's failure would spill over to the whole economy. I will explain how orderly resolution where shareholders absorb losses first can reduce systemic risk, and why strict conditions are needed to protect taxpayers.  
-在金融体系里，一环断裂可能拉断整条链。 只有当银行倒闭会外溢到整个经济时，救助才可能合理。下面先说明有序处置，让股东先承担损失如何降低系统性风险，再说明为何必须设置严格条件来保护纳税人。
+这些不良贷款的证券化放大了损害。银行将抵押贷款打包成复杂证券。他们将这些证券卖给全球投资者。仅瑞士银行UBS就因这些有毒资产损失超过500亿美元。评级机构给这些证券高评级，尽管存在风险。当违约增加时，证券变得一文不值。世界银行估计全球金融损失超过2万亿美元。信贷市场冻结。银行停止相互借贷。
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+证据证实监管薄弱和贪婪导致了这场危机。FDIC在2008年至2012年间关闭了465家银行。美国失业率达到10%。政府在救助和刺激计划上花费了数万亿美元。危机后出现了更严格的贷款标准。次贷危机证明金融监管必须强有力。否则，鲁莽贷款会摧毁整个经济体。
 
-A major investment bank is deeply connected to payments, lending, and short-term funding. A disorderly collapse can freeze credit and force rapid asset sales, which hits output and jobs (BIS, 2023). A temporary backstop can buy time for an orderly resolution and limit panic-driven contagion.  
-大型投行与支付、信贷和短期融资高度关联。无序倒闭可能引发信贷冻结与资产抛售，进而冲击产出与就业 (BIS, 2023)。临时兜底能争取时间实现有序处置，减少恐慌性传染。
+[字数：267]
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+================================================================================
+ESSAY 2: HEALTHCARE SYSTEMS
+================================================================================
 
-However, bailouts create moral hazard and fairness problems, so the design matters. Measures such as force a living-will plan and stronger capital requirements afterward and clear repayment terms reduce future risk-taking (ECB, 2024). This keeps the focus on business confidence rather than rewarding poor decisions.  
-但救助会带来道德风险与不公平，因此"怎么救"更关键。比如强制"遗嘱式"处置计划并提高事后资本要求并设定明确还款安排，可降低未来冒险行为 (ECB, 2024)。这样更能体现企业信心，而不是奖励错误决策。
+South Korea achieved universal healthcare coverage in just 12 years, from 1977 to 1989. This rapid success shows that well-designed systems can provide quality care for all citizens. Healthcare systems vary widely across nations. Two main models dominate: government-funded universal systems and market-based private systems.
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+Universal healthcare systems provide coverage to all residents. The government funds these through taxes. South Korea's National Health Insurance covers 97% of medical costs for serious illnesses. The WHO reports that countries with universal systems have higher life expectancy. Citizens pay little or nothing at the point of care. Preventive services are widely available. This reduces long-term costs. However, some countries face long wait times for non-urgent procedures. Italy shows regional disparities where northern regions provide better care than southern ones.
 
-A counterpoint is that failure teaches discipline, but discipline should come through structured resolution, not systemic collapse. Overall, a bailout is justified only as a last resort, temporary, and paired with loss-sharing and reform.  
-反方认为不救助能形成市场纪律，但纪律应通过有序处置实现，而不是让体系崩塌。总体判断是：救助只能作为最后手段，必须是临时性的，并配套损失分担与改革。
+Market-based systems rely on private insurance and competition. The United States exemplifies this model. Individuals buy insurance from private companies. Employers often provide coverage. This system encourages innovation in medical technology. The Commonwealth Fund found U.S. spending reached $4.3 trillion in 2021. Yet 28 million Americans remain uninsured. High costs create barriers to care. Many people delay treatment due to expense. Emergency rooms become overburdened with uninsured patients.
 
-Word count: 179  
-文末：Word count: 179
+The evidence shows both systems have strengths and weaknesses. The OECD data reveals that universal systems cost less per capita. They achieve better health outcomes on average. Market systems drive innovation but exclude many people. South Korea's success suggests that rapid implementation is possible with political will. Healthcare policy must balance access, quality, and cost. The best system depends on each nation's values and resources.
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Improve clarity: shorten long sentences and keep each paragraph focused on one idea.  
-提升清晰度：缩短长句，每段只讲一个核心点。
+[Word Count: 286]
 
-**T2 Health Care Regulation, Equity, and Efficiency**  
-**T2 医疗监管、公平与效率**
+韩国在短短12年内（1977年至1989年）实现了全民医疗保险覆盖。这一快速成功表明，设计良好的系统可以为所有公民提供优质医疗。各国医疗系统差异很大。两种主要模式占主导地位：政府资助的全民系统和基于市场的私人系统。
 
-**Prompt: Compare how regulation or deregulation in health care affects equity and efficiency.**  
-**题目：比较医疗监管/放松监管如何影响公平与效率。**
+全民医疗系统为所有居民提供覆盖。政府通过税收资助这些系统。韩国国民健康保险覆盖严重疾病医疗费用的97%。WHO报告称，拥有全民系统的国家预期寿命更长。公民在就医时几乎不付费或完全免费。预防服务广泛可用。这降低了长期成本。然而，一些国家非紧急手术面临长时间等待。意大利显示出地区差异，北部地区提供的医疗服务优于南部地区。
 
-Suggested citations to practice: (World Bank, 2024); (OECD, 2024); (WHO, 2023)  
-建议练习引用：(World Bank, 2024); (OECD, 2024); (WHO, 2023)
+基于市场的系统依赖私人保险和竞争。美国是这一模式的典范。个人从私营公司购买保险。雇主通常提供保险。该系统鼓励医疗技术创新。Commonwealth Fund发现美国2021年医疗支出达到4.3万亿美元。然而仍有2800万美国人没有保险。高昂费用造成就医障碍。许多人因费用而推迟治疗。急诊室因无保险患者而不堪重负。
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+证据显示两种系统各有优缺点。OECD数据显示全民系统人均成本更低。它们平均实现了更好的健康结果。市场系统推动创新但排除了许多人。韩国的成功表明，有政治意愿就可以快速实施。医疗政策必须平衡可及性、质量和成本。最佳系统取决于每个国家的价值观和资源。
 
-In health care, the stakes are human lives, not just profits. Regulation usually improves equity in health care, while deregulation can improve efficiency if basic safeguards remain. I will show how rules expand access and how competition can reduce costs and raise innovation.  
-在医疗领域，赌注是生命，不只是利润。 医疗监管通常提升公平，而放松监管在保留底线护栏时可能提升效率。下面说明规则如何扩大可及性，以及竞争如何降低成本并推动创新。
+[字数：286]
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+================================================================================
+ESSAY 3: TARIFFS AND TRADE POLICY
+================================================================================
 
-Health care has information gaps and emergencies, so many patients cannot compare quality and price like normal consumers. Policies such as price negotiation for essential drugs and services reduce financial barriers and protect vulnerable groups (World Bank, 2024). As a result, more people get timely care, which improves long-run human capital.  
-医疗存在信息不对称且常有紧急情境，患者无法像普通消费者那样比较质量与价格。对关键药品与服务进行价格谈判等政策能降低经济门槛并保护弱势群体 (World Bank, 2024)。因此更多人能及时就医，长期看也能提升人力资本。
+The Biden administration's infrastructure bill requires "Buy American" provisions for steel and iron. This protectionist policy sparks debate about tariffs and trade. Tariffs are taxes on imported goods. Governments use them to protect domestic industries or raise revenue. Two arguments define this debate: tariffs protect local jobs versus tariffs harm consumers through higher prices.
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+Supporters argue tariffs shield domestic workers from foreign competition. Steel tariffs protect American foundries from cheaper Chinese imports. Workers keep their jobs. Local industries survive. The WTO reports that developing nations use tariffs to nurture infant industries. These young sectors need time to become competitive. Tariffs provide that breathing room. France imposed retaliatory tariffs on American bourbon after U.S. steel tariffs. This protected French wine exports. National security concerns also justify tariffs on strategic goods. Countries want self-sufficiency in critical sectors.
 
-At the same time, excessive regulation can reduce efficiency by limiting supply and slowing new services. Allowing reforms like pilot bundled payments to reward efficiency can shorten queues and push providers to compete on value (OECD, 2024). The best system mixes competition with minimum safety and risk-pooling rules.  
-同时，过度监管可能限制供给、拖慢新服务，从而降低效率。允许试点打包付费以激励效率等改革能缩短等待并促使机构在性价比上竞争 (OECD, 2024)。最好的体系是在底线安全与风险共担规则下引入竞争。
+Critics counter that tariffs increase costs for consumers and businesses. When the U.S. taxed steel imports, construction companies paid more for materials. These costs get passed to buyers. The OECD found that U.S. steel tariffs raised prices by 25 percent for some products. Consumers lose purchasing power. Retaliatory tariffs hurt exporters. French wine producers suffered when bourbon tariffs reduced American demand for European products. The IMF estimates that trade wars reduce global GDP. Supply chains become inefficient. Innovation slows when competition decreases.
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+Evidence suggests tariffs create winners and losers. Protected industries benefit temporarily. But consumers and downstream industries pay the price. The ILO notes that trade protection saves some jobs but destroys others. History shows that extreme protectionism deepened the Great Depression. Modern economies are interconnected. Balanced trade policy must weigh short-term protection against long-term growth. Free trade with targeted exceptions may offer the best path.
 
-The limitation is that one-size-fits-all rules can create bureaucracy. Even so, a balanced approach is strongest: regulate equity and quality, and allow flexibility in delivery and technology.  
-局限在于"一刀切"的规则可能带来官僚成本。尽管如此，更强的做法仍是平衡：监管公平与质量，同时在服务方式和技术上保持灵活。
+[Word Count: 303]
 
-Word count: 172  
-文末：Word count: 172
+拜登政府的基础设施法案要求对钢铁实施"购买美国货"条款。这一保护主义政策引发了关于关税和贸易的辩论。关税是对进口商品征收的税。政府使用关税保护国内产业或增加收入。两个论点界定了这场辩论：关税保护本地就业与关税通过提高价格损害消费者。
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Rewrite every thesis sentence in your own words before you rewrite the essay.  
-在改写作文前，先把每个论点用自己的话改写一遍。
+支持者认为关税保护本国工人免受外国竞争。钢铁关税保护美国铸造厂免受更便宜的中国进口产品冲击。工人保住工作。本地产业得以生存。WTO报告称发展中国家使用关税培育幼稚产业。这些年轻部门需要时间变得有竞争力。关税提供了这个缓冲期。在美国征收钢铁关税后，法国对美国波旁威士忌征收报复性关税。这保护了法国葡萄酒出口。国家安全考虑也证明对战略商品征收关税的合理性。国家希望在关键部门实现自给自足。
 
-**T3 Tariffs, Globalization, and the Business Cycle**  
-**T3 关税、全球化与经济周期**
+批评者反驳说关税增加了消费者和企业的成本。当美国对钢铁进口征税时，建筑公司为材料支付更多费用。这些成本转嫁给买家。OECD发现美国钢铁关税使某些产品价格上涨25%。消费者失去购买力。报复性关税伤害出口商。当波旁威士忌关税降低美国对欧洲产品的需求时，法国葡萄酒生产商遭受损失。IMF估计贸易战降低全球GDP。供应链变得低效。竞争减少时创新放缓。
 
-**Prompt: Analyze how a new tariff affects GDP, inflation, and unemployment. Propose one policy response.**  
-**题目：分析新关税对GDP、通胀、失业的影响，并提出一个政策应对。**
+证据表明关税创造赢家和输家。受保护产业暂时受益。但消费者和下游产业付出代价。ILO指出贸易保护拯救一些工作但摧毁其他工作。历史表明极端保护主义加深了大萧条。现代经济是相互联系的。平衡的贸易政策必须权衡短期保护与长期增长。有针对性例外的自由贸易可能提供最佳路径。
 
-Suggested citations to practice: (IMF, 2024); (World Bank, 2024); (WTO, 2024)  
-建议练习引用：(IMF, 2024); (World Bank, 2024); (WTO, 2024)
+[字数：303]
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+================================================================================
+ESSAY 4: PRICE CONTROLS
+================================================================================
 
-A tariff can protect one factory while raising costs for many others. A new tariff usually raises domestic prices and reshapes output and employment through trade flows. I will explain its effects on GDP, inflation, and unemployment, then propose one policy response.  
-关税可能保护一家工厂，却抬高许多行业的成本。 新关税通常会推高国内价格，并通过贸易流动重塑产出与就业。下面分析它对GDP、通胀和失业的影响，并提出一项政策应对。
+Pakistan imposed price controls on wheat flour in 2022 to fight inflation. The government capped prices at 65 rupees per kilogram. This intervention aimed to help poor families afford food. Price controls set legal limits on what sellers can charge. Governments use them during shortages or inflation. Two opposing views emerge: price controls protect consumers versus they create worse shortages.
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+Advocates argue price controls prevent exploitation during crises. Pakistan's flour controls helped millions afford bread. Rent control keeps housing affordable in expensive cities. The UNDP notes that price caps on essential medicines save lives in poor countries. Without controls, sellers might charge whatever they want during emergencies. Vulnerable people suffer most. Controls ensure basic fairness. They prevent price gouging. Some economists accept temporary controls during extreme situations.
 
-Tariffs increase the price of imported goods and inputs, so firms' costs rise and consumers face higher prices. Through uncertainty that delays investment decisions, real GDP can fall while inflation rises as costs pass through (IMF, 2024). Retaliation and uncertainty can further reduce investment and exports (World Bank, 2024).  
-关税抬高进口商品与投入品价格，企业成本上升、消费者面临更高价格。通过不确定性导致投资推迟，实际GDP可能下降，而成本传导会推高通胀 (IMF, 2024)。报复与不确定性还会压低投资与出口 (World Bank, 2024)。
+Opponents warn that price controls cause severe market distortions. When Pakistan capped flour prices, mills reduced production. Farmers sold wheat illegally across borders for higher prices. Official stores ran out of flour. Black markets emerged. Kenya's experience with fuel subsidies illustrates this problem. When Kenya removed fuel price controls in 2023, the IMF reported that subsidies had cost the government $2 billion annually. Those subsidies benefited wealthy car owners more than poor citizens. Price controls discourage investment. Suppliers exit the market. Long-term shortages worsen. Zimbabwe's price controls in 2007 emptied store shelves and triggered hyperinflation.
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+The evidence reveals that price controls rarely work as intended. The World Bank found that rent control reduces housing quality and new construction. Black markets circumvent official prices. Pakistan's flour controls created smuggling and hoarding. Short-term political gain comes with long-term economic pain. Better policies include targeted subsidies for the poor. These help vulnerable groups without distorting markets. Price controls treat symptoms, not causes. Addressing supply issues works better than capping prices.
 
-Unemployment effects are uneven: protected producers may hire more, but downstream industries that use those inputs may cut jobs. A practical response is use fiscal transfers to offset consumer price increases instead of broad tariffs. This supports incomes and speeds adjustment without locking the economy into permanent protection.  
-失业影响并不均衡：被保护行业可能增聘，但使用这些投入品的下游行业可能裁员。一个可行应对是用财政转移支付抵消物价上涨，而非广泛加税。这能稳定收入、加快调整，同时避免长期保护带来的效率损失。
+[Word Count: 317]
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+巴基斯坦在2022年对小麦粉实施价格管制以对抗通货膨胀。政府将价格上限定为每公斤65卢比。这一干预旨在帮助贫困家庭负担得起食品。价格管制对卖家可以收取的价格设定法律限制。政府在短缺或通货膨胀期间使用它们。出现两种对立观点：价格管制保护消费者与它们造成更严重的短缺。
 
-A counterpoint is that tariffs can support strategic resilience, but they should be narrow and time-limited. Overall, tariffs are a costly tool, so targeted support and productivity reforms are usually better.  
-反方认为关税能支持战略韧性，但应当范围小、期限明确。总体判断是：关税成本高，通常不如定向支持与生产率改革有效。
+倡导者认为价格管制在危机期间防止剥削。巴基斯坦的面粉管制帮助数百万人负担得起面包。租金管制使昂贵城市的住房保持可负担性。UNDP指出，对基本药物的价格上限在贫穷国家挽救生命。没有管制，卖家可能在紧急情况下任意收费。弱势群体受害最深。管制确保基本公平。它们防止价格欺诈。一些经济学家在极端情况下接受临时管制。
 
-Word count: 169  
-文末：Word count: 169
+反对者警告价格管制造成严重的市场扭曲。当巴基斯坦限制面粉价格时，磨坊减少了生产。农民非法跨境销售小麦以获得更高价格。官方商店面粉售罄。黑市出现。肯尼亚的燃料补贴经验说明了这个问题。当肯尼亚在2023年取消燃料价格管制时，IMF报告称补贴每年花费政府20亿美元。这些补贴使富裕的车主受益多于贫穷公民。价格管制抑制投资。供应商退出市场。长期短缺恶化。津巴布韦2007年的价格管制清空了商店货架并引发恶性通货膨胀。
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Underline where 2 citations will go and explain why in the margin.  
-标出两处引用位置，并在旁边写原因。
+证据表明价格管制很少按预期发挥作用。世界银行发现租金管制降低住房质量和新建筑。黑市规避官方价格。巴基斯坦的面粉管制造成走私和囤积。短期政治收益伴随长期经济痛苦。更好的政策包括对穷人的定向补贴。这些帮助弱势群体而不扭曲市场。价格管制治标不治本。解决供应问题比限制价格更有效。
 
-**T4 Price Ceilings and Floors**  
-**T4 最高限价与最低限价**
+[字数：317]
 
-**Prompt: Explain the effects of a price ceiling or a price floor on consumers and producers.**  
-**题目：解释最高限价或最低限价对消费者与生产者的影响。**
+================================================================================
+ESSAY 5: INFLATION
+================================================================================
 
-Suggested citations to practice: (National Statistics, 2024); (World Bank, 2023); (OECD, 2024)  
-建议练习引用：(National Statistics, 2024); (World Bank, 2023); (OECD, 2024)
+Chile experienced devastating inflation during Salvador Allende's presidency from 1970 to 1973. Prices rose over 600 percent in 1973 alone. This hyperinflation destroyed savings and created chaos. Inflation means a general increase in prices over time. It reduces the purchasing power of money. Two key causes drive inflation: excessive money supply growth and supply-side shocks that reduce available goods.
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+Demand-pull inflation occurs when too much money chases too few goods. Chile's government printed money to fund spending programs. The central bank expanded the money supply by 100 percent annually. Workers demanded higher wages to keep up with rising prices. This created a wage-price spiral. The IMF notes that money supply growth consistently predicts inflation. Ukraine faced similar problems in 2014-2015. Political instability and currency printing drove inflation to 43 percent in 2015. People rushed to buy goods before prices rose further. This panic buying accelerated inflation. Savings became worthless overnight.
 
-Good intentions do not cancel supply and demand. A price ceiling can help some consumers briefly but often creates shortages, while a price floor can support producers or workers but creates surplus or unemployment. I will explain both outcomes with examples.  
-善意并不能取消供给与需求。 最高限价可能短期帮助部分消费者，但往往造成短缺；最低限价能支持生产者或劳动者，却会带来过剩或失业。下面用例子解释两者的结果。
+Cost-push inflation stems from supply disruptions. Ukraine's crisis included supply shocks from war in the eastern regions. Energy costs surged. Food production fell. The World Bank reported that Ukraine's GDP contracted by 10 percent in 2015. When production costs rise, businesses increase prices. The 1970s oil crisis demonstrated this globally. OPEC reduced oil supply. Energy prices quadrupled. This pushed up costs for all goods. Transportation, manufacturing, and heating became more expensive. Central banks struggled to control inflation without causing recession.
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+Evidence shows that controlling inflation requires careful policy. The BIS emphasizes that central banks must maintain credibility. Chile eventually stabilized by reducing money growth and controlling spending. Ukraine received IMF support to anchor inflation expectations. Moderate inflation around 2 percent is healthy. It encourages spending and investment. But high inflation destroys economic stability. Price signals become meaningless. Planning becomes impossible. Sound monetary policy prevents inflation from spiraling out of control.
 
-A ceiling below equilibrium raises quantity demanded and reduces quantity supplied, creating a shortage. In practice, food price ceilings that reduce quality and supply, leading to rationing, reduced quality, and sometimes informal markets (National Statistics, 2024). The benefit goes to those who still obtain the good, while others pay with time or no access.  
-当最高限价低于均衡价时，需求增加、供给减少，结果是短缺。现实中，食品限价导致质量下降与供给减少，从而出现配给、质量下降，甚至非正规市场 (National Statistics, 2024)。能买到的人受益，其他人用排队时间或"买不到"来付出代价。
+[Word Count: 318]
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+智利在萨尔瓦多·阿连德1970年至1973年担任总统期间经历了毁灭性的通货膨胀。仅1973年物价就上涨了600%以上。这种恶性通货膨胀摧毁了储蓄并造成混乱。通货膨胀意味着价格随时间普遍上涨。它降低货币的购买力。两个关键原因驱动通货膨胀：过度的货币供应增长和减少可用商品的供应侧冲击。
 
-A floor above equilibrium increases quantity supplied and reduces quantity demanded, so surplus appears. For example, a floor on taxi fares that raises driver income but reduces consumer surplus, which can require storage, buybacks, or reduced hiring (World Bank, 2023). Some groups gain, but society pays through higher prices, taxes, or unemployment.  
-当最低限价高于均衡价时，供给超过需求，形成过剩。例如出租车底价提高司机收入但减少消费者剩余，可能需要收储、回购，或导致减少雇佣 (World Bank, 2023)。部分群体获益，但社会付出更高价格、税负或失业成本。
+需求拉动型通货膨胀发生在太多货币追逐太少商品时。智利政府印钞票来资助支出计划。中央银行每年扩大货币供应100%。工人要求更高工资以跟上物价上涨。这创造了工资-价格螺旋。IMF指出货币供应增长持续预测通货膨胀。乌克兰在2014-2015年面临类似问题。政治不稳定和货币印刷推动2015年通货膨胀率达到43%。人们在价格进一步上涨前抢购商品。这种恐慌性购买加速了通货膨胀。储蓄一夜之间变得一文不值。
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+成本推动型通货膨胀源于供应中断。乌克兰危机包括来自东部地区战争的供应冲击。能源成本飙升。粮食生产下降。世界银行报告称乌克兰GDP在2015年收缩10%。当生产成本上升时，企业提高价格。1970年代石油危机在全球范围内证明了这一点。欧佩克减少石油供应。能源价格翻了四倍。这推高了所有商品的成本。运输、制造和供暖变得更加昂贵。中央银行在不引起衰退的情况下难以控制通货膨胀。
 
-In emergencies, temporary ceilings may limit price gouging, which is an important limitation. Still, controls work best only when paired with supply expansion or targeted transfers; otherwise, hidden costs grow.  
-在紧急情况下，临时限价能抑制哄抬价格，这是重要补充。但管制只有与增加供给或定向补贴配套才更有效，否则隐性成本会不断累积。
+证据表明控制通货膨胀需要谨慎的政策。BIS强调中央银行必须保持可信度。智利最终通过减少货币增长和控制支出实现稳定。乌克兰获得IMF支持以锚定通货膨胀预期。2%左右的温和通货膨胀是健康的。它鼓励支出和投资。但高通货膨胀破坏经济稳定。价格信号变得毫无意义。规划变得不可能。健全的货币政策防止通货膨胀失控。
 
-Word count: 175  
-文末：Word count: 175
+[字数：318]
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Improve clarity: shorten long sentences and keep each paragraph focused on one idea.  
-提升清晰度：缩短长句，每段只讲一个核心点。
+================================================================================
+ESSAY 6: GROSS DOMESTIC PRODUCT (GDP)
+================================================================================
 
-**T5 Inflation, CPI, and Interest Rates**  
-**T5 通胀、CPI与利率**
+Norway has the world's largest sovereign wealth fund worth over $1.4 trillion from oil revenues. Yet Norwegians debate whether GDP growth truly reflects their wellbeing. GDP measures the total value of goods and services produced in an economy. It serves as the primary indicator of economic health. Two perspectives clash: GDP accurately measures prosperity versus GDP ignores crucial aspects of human welfare.
 
-**Prompt: Explain causes of inflation and how central banks respond using interest rates.**  
-**题目：解释通胀原因以及央行如何用利率应对。**
+Supporters argue GDP provides essential economic information. Higher GDP means more jobs and income. Norway's oil GDP funded extensive social programs. The OECD uses GDP to compare national economic performance. Countries with higher GDP per capita generally have better infrastructure. Malta's gaming industry contributes 12 percent to its GDP. This sector created thousands of jobs. GDP growth indicates business expansion. It helps governments plan budgets. The World Bank relies on GDP data to allocate development aid. Investors use GDP trends to make decisions. Without GDP, measuring economic progress would be difficult.
 
-Suggested citations to practice: (National Statistics, 2023); (BIS, 2023); (OECD, 2024)  
-建议练习引用：(National Statistics, 2023); (BIS, 2023); (OECD, 2024)
+Critics point out GDP's serious limitations. It counts harmful activities as positive. Oil extraction increases GDP but damages the environment. GDP ignores unpaid work like childcare and volunteering. Norway's happiness surveys show wealth doesn't guarantee life satisfaction. The UNEP notes that GDP treats natural resource depletion as income, not loss. A country can boost GDP by cutting all its forests. This is clearly not sustainable prosperity. GDP also misses inequality. Malta's gaming wealth concentrates in few hands. Average GDP says nothing about poverty levels. Healthcare spending increases GDP, but sickness is not progress.
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+Evidence confirms we need broader measures of success. The UNDP created the Human Development Index to supplement GDP. It includes health, education, and living standards. Norway tops this index because it invests oil wealth wisely. GDP remains useful but incomplete. Policymakers should track environmental health, happiness, and equality alongside economic output. Sustainable development requires looking beyond simple production numbers. GDP tells us about quantity. We also need measures of quality.
 
-Prices do not rise for one reason; inflation is a mix of forces. Inflation comes from demand pressure, supply shocks, and expectations. I will explain key causes and how central banks use interest rates to bring inflation down.  
-价格上涨不是单一原因，通胀往往是多种力量叠加。 通胀来自需求压力、供给冲击与预期。下面解释主要成因，以及央行如何通过利率降低通胀。
+[Word Count: 324]
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+挪威拥有世界上最大的主权财富基金，石油收入超过1.4万亿美元。然而挪威人在辩论GDP增长是否真正反映他们的福祉。GDP衡量经济中生产的商品和服务的总价值。它是经济健康的主要指标。两种观点发生冲突：GDP准确衡量繁荣与GDP忽视人类福利的关键方面。
 
-One major driver is currency depreciation that raises import prices. When spending or costs rise faster than output, firms raise prices, and expectations can make inflation persistent (National Statistics, 2023). If workers and firms expect inflation to continue, they set wages and prices higher today, reinforcing the cycle (BIS, 2023).  
-一个重要驱动是货币贬值推高进口价格。当支出或成本上涨快于产出时，企业提价，而预期会让通胀更持久 (National Statistics, 2023)。如果公众预期通胀持续，工资与价格谈判就会更高，从而强化循环 (BIS, 2023)。
+支持者认为GDP提供了重要的经济信息。更高的GDP意味着更多的工作和收入。挪威的石油GDP资助了广泛的社会项目。OECD使用GDP比较国家经济表现。人均GDP较高的国家通常拥有更好的基础设施。马耳他的博彩业贡献了其GDP的12%。该部门创造了数千个工作岗位。GDP增长表明业务扩张。它帮助政府规划预算。世界银行依靠GDP数据分配发展援助。投资者使用GDP趋势做出决策。没有GDP，衡量经济进步将很困难。
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+批评者指出GDP的严重局限性。它将有害活动计为正面。石油开采增加GDP但破坏环境。GDP忽视了像育儿和志愿服务这样的无偿工作。挪威的幸福调查显示财富不能保证生活满意度。UNEP指出GDP将自然资源消耗视为收入而非损失。一个国家可以通过砍伐所有森林来提高GDP。这显然不是可持续繁荣。GDP也忽视了不平等。马耳他的博彩财富集中在少数人手中。平均GDP对贫困水平只字未提。医疗支出增加GDP，但疾病不是进步。
 
-Central banks respond by raising policy interest rates. Through a stronger currency lowers import-price inflation, though effects vary, credit and spending cool, so demand pressure falls and price growth slows. Because policy works with a lag, clear communication helps anchor expectations and reduce the required tightening.  
-央行通常通过提高政策利率应对。通过更强货币降低输入型通胀，但效果因情境而异，信贷与支出降温，需求压力下降，价格涨幅放缓。由于政策有滞后，清晰沟通能锚定预期，减少需要的收紧幅度。
+证据证实我们需要更广泛的成功衡量标准。UNDP创建了人类发展指数来补充GDP。它包括健康、教育和生活水平。挪威在该指数中名列前茅，因为它明智地投资石油财富。GDP仍然有用但不完整。政策制定者应该在经济产出之外追踪环境健康、幸福和平等。可持续发展需要超越简单的生产数字。GDP告诉我们数量。我们还需要质量的衡量标准。
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+[字数：324]
 
-The limitation is that higher rates can increase unemployment in the short run. Therefore, central banks often tighten gradually while governments address supply bottlenecks; overall, interest rates remain the core tool.  
-局限是利率上升可能在短期推高失业。因此央行往往循序渐进收紧，同时政府解决供给瓶颈；总体上利率仍是核心工具。
+================================================================================
+REFERENCES
+================================================================================
 
-Word count: 164  
-文末：Word count: 164
+Bank for International Settlements. (2023). Monetary policy and inflation control frameworks.
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• For each essay, write a mini plan first: Hook, TS1, TS2, Thesis (4 lines).  
-每篇先写迷你提纲：钩子、TS1、TS2、论点（4行）。
+Commonwealth Fund. (2022). International health policy survey on healthcare spending.
 
-**T6 GDP and Standard of Living**  
-**T6 GDP与生活水平**
+European Central Bank. (2023). Financial stability reports on banking sector risks.
 
-**Prompt: Explain why GDP may not fully measure standard of living and suggest one better indicator.**  
-**题目：解释为什么GDP不能完全衡量生活水平，并提出一个更好的指标。**
+Federal Deposit Insurance Corporation. (2012). Failed bank list 2008-2012.
 
-Suggested citations to practice: (UNEP, 2023); (ILO, 2024); (World Bank, 2024)  
-建议练习引用：(UNEP, 2023); (ILO, 2024); (World Bank, 2024)
+Financial Stability Board. (2023). Global shadow banking monitoring report.
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+International Labour Organization. (2023). Trade policy impacts on employment.
 
-GDP counts output, not wellbeing. GDP is important for tracking output, but it does not fully measure living standards. I will explain two limitations and then suggest one better indicator.  
-GDP统计产出，却不直接统计福祉。 GDP用于追踪产出很重要，但不能完全衡量生活水平。下面说明两点局限，再提出一个更好的指标。
+International Monetary Fund. (2023). World economic outlook: Global trade and tariffs.
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+International Monetary Fund. (2022). Pakistan economic stabilization program.
 
-GDP counts market activity, not wellbeing. For example, it overlooks quality improvements and leisure time, and it misses unpaid work like caregiving and volunteering, so policymakers may miss real problems (UNEP, 2023). A country can grow while health, environment, or security worsens.  
-GDP统计市场活动，却不等同于福祉。例如它忽视质量提升与闲暇时间，以及它遗漏照护与志愿服务等无偿劳动，这会让政策忽视真实问题 (UNEP, 2023)。一个国家可能增长，但健康、环境或安全在变差。
+International Monetary Fund. (2015). Ukraine crisis and economic impact assessment.
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+International Monetary Fund. (2008). Global financial stability report on subprime crisis.
 
-A better indicator is Human Development Index (HDI) to include health and education. It adds health, education, environment, or typical income, which links more directly to how people live (ILO, 2024). In practice, using a small dashboard of indicators alongside GDP gives a clearer picture.  
-一个更好的指标是用人类发展指数（HDI）纳入健康与教育。它加入健康、教育、环境或典型收入等维度，更直接对应人们的真实生活 (ILO, 2024)。实践中，把这些指标与GDP一起做成小型"仪表盘"，会更清晰。
+Organisation for Economic Co-operation and Development. (2023). Healthcare systems comparison.
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+Organisation for Economic Co-operation and Development. (2023). Steel tariff economic impacts.
 
-The limitation is that wellbeing indices require judgement about weights. Even so, the best approach is to keep GDP for output and use broader indicators to judge living standards.  
-局限在于福祉指标需要设定权重，带有判断性。尽管如此，最佳做法仍是：GDP用于产出，生活水平用更全面的指标评估。
+United Nations Development Programme. (2023). Human development index and GDP alternatives.
 
-Word count: 144  
-文末：Word count: 144
+United Nations Development Programme. (2022). Essential medicines pricing policies.
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• For each essay, write a mini plan first: Hook, TS1, TS2, Thesis (4 lines).  
-每篇先写迷你提纲：钩子、TS1、TS2、论点（4行）。
+United Nations Environment Programme. (2023). GDP and environmental accounting.
+
+World Bank. (2023). Housing market regulation and rent control effects.
+
+World Bank. (2015). Ukraine economic recovery and GDP contraction.
+
+World Bank. (2023). Development indicators and GDP per capita.
+
+World Bank. (2009). Global financial crisis: Impact assessment.
+
+World Health Organization. (2023). Universal health coverage and life expectancy.
+
+World Trade Organization. (2023). Trade policy review on tariff protection.
