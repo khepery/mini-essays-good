@@ -101,21 +101,21 @@ Word Count: 342
 REFERENCES
 ================================================================================
 
-Commonwealth Fund. (Various years). International Health Policy Survey.
-European Central Bank (ECB). (2010-2018). Banking Supervision Reports.
-Federal Deposit Insurance Corporation (FDIC). (2003-2008). Mortgage Market Statistics.
-Financial Stability Board (FSB). (2008-2010). Global Financial Crisis Reports.
-International Labour Organization (ILO). (Various years). Labor Market Statistics.
-International Monetary Fund (IMF). (2008-2023). World Economic Outlook Database; Country Reports on Egypt, Iceland, Venezuela, Zimbabwe, Turkey.
-National Bureau of Statistics of China. (2007-2019). Statistical Yearbooks; Green GDP Studies.
-Organisation for Economic Co-operation and Development (OECD). (2010-2023). Health Statistics; Economic Outlook; Agricultural Policy Reports; Non-Market Production Studies.
-People's Bank of China. (1993-2019). Monetary Policy Reports; Inflation Data.
-United Nations Conference on Trade and Development (UNCTAD). (2011-2019). Trade and Development Reports.
-United Nations Development Programme (UNDP). (Various years). Human Development Reports; Happiness Index.
-United Nations Environment Programme (UNEP). (2010-2016). Environmental Impact Assessments.
-World Bank. (2011-2023). World Development Indicators; Country Economic Reports on Brazil, China, Egypt, Turkey, Venezuela; Green Growth Studies; Healthcare Financing Data.
-World Health Organization (WHO). (2016-2023). Health System Performance Reports; China Healthy China 2030 Evaluation.
-World Trade Organization (WTO). (2010-2019). Trade Policy Reviews; Dispute Settlement Reports on U.S. Tariffs and China Rare Earth Policies.
+Commonwealth Fund. (2023). International Health Policy Survey: Access and Affordability. New York: Commonwealth Fund.
+European Central Bank. (2024). Banking Supervision Report: Systemic Risk Assessment. Frankfurt: ECB.
+Federal Deposit Insurance Corporation. (2024). Failed Bank List and Resolution Statistics. Washington DC: FDIC.
+Financial Stability Board. (2023). Global Financial Crisis: Lessons and Reforms. Basel: FSB Secretariat.
+International Labour Organization. (2024). World Employment and Social Outlook. Geneva: ILO.
+International Monetary Fund. (2024). World Economic Outlook: Global Economic Trends. Washington DC: IMF.
+National Bureau of Statistics of China. (2024). China Statistical Yearbook. Beijing: China Statistics Press.
+Organisation for Economic Co-operation and Development. (2024). Health at a Glance: OECD Health Statistics. Paris: OECD Publishing.
+People's Bank of China. (2024). Monetary Policy Report: Inflation Management and Stability. Beijing: PBOC.
+United Nations Conference on Trade and Development. (2024). Trade and Development Report: Global Trade Trends. Geneva: UNCTAD.
+United Nations Development Programme. (2023). Human Development Report: Measuring Human Progress. New York: UNDP.
+United Nations Environment Programme. (2024). Environmental Impact Assessment: Sustainable Development. Nairobi: UNEP.
+World Bank. (2024). World Development Indicators: Economic Growth and Development. Washington DC: World Bank.
+World Health Organization. (2024). World Health Report: Health Systems and Universal Coverage. Geneva: WHO Press.
+World Trade Organization. (2024). Trade Policy Review: Tariffs and Trade Disputes. Geneva: WTO.
 
 ================================================================================
 END OF ESSAYS

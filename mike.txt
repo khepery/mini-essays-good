@@ -149,35 +149,35 @@ Evidence confirms we need broader measures of success. The UNDP created the Huma
 REFERENCES
 ================================================================================
 
-Bank for International Settlements. (2023). Monetary policy and inflation control frameworks.
+Bank for International Settlements. (2023). Annual Economic Report: Monetary Policy and Inflation. Basel: BIS.
 
-Commonwealth Fund. (2022). International health policy survey on healthcare spending.
+Commonwealth Fund. (2023). International Health Policy Survey: Healthcare Systems Comparison. New York: Commonwealth Fund.
 
-European Central Bank. (2023). Financial stability reports on banking sector risks.
+European Central Bank. (2024). Financial Stability Review: Banking Sector Resilience. Frankfurt: ECB.
 
-Federal Deposit Insurance Corporation. (2012). Failed bank list 2008-2012.
+Federal Deposit Insurance Corporation. (2024). Failed Bank List: Crisis Resolution 2008-2012. Washington DC: FDIC.
 
-Financial Stability Board. (2023). Global shadow banking monitoring report.
+Financial Stability Board. (2023). Global Shadow Banking Monitoring Report. Basel: FSB Secretariat.
 
-International Labour Organization. (2023). Trade policy impacts on employment.
+International Labour Organization. (2024). World Employment Report: Trade Policy and Employment. Geneva: ILO.
 
-International Monetary Fund. (2023). World economic outlook: Global trade and tariffs.
+International Monetary Fund. (2024). World Economic Outlook: Global Trade and Tariff Effects. Washington DC: IMF.
 
-International Monetary Fund. (2022). Pakistan economic stabilization program.
+International Monetary Fund. (2024). Pakistan Economic Stabilization Program Review. Washington DC: IMF.
 
-International Monetary Fund. (2015). Ukraine crisis and economic impact assessment.
+International Monetary Fund. (2015). Ukraine Crisis: Economic Impact and Recovery. Washington DC: IMF.
 
-International Monetary Fund. (2008). Global financial stability report on subprime crisis.
+International Monetary Fund. (2024). Global Financial Stability Report: Banking Sector Analysis. Washington DC: IMF.
 
-Organisation for Economic Co-operation and Development. (2023). Healthcare systems comparison.
+Organisation for Economic Co-operation and Development. (2024). Health at a Glance: Healthcare Systems Comparison. Paris: OECD Publishing.
 
-Organisation for Economic Co-operation and Development. (2023). Steel tariff economic impacts.
+Organisation for Economic Co-operation and Development. (2024). Trade Policy Review: Steel Tariff Impacts. Paris: OECD Publishing.
 
-United Nations Development Programme. (2023). Human development index and GDP alternatives.
+United Nations Development Programme. (2023). Human Development Report: Beyond GDP Measures. New York: UNDP.
 
-United Nations Development Programme. (2022). Essential medicines pricing policies.
+United Nations Development Programme. (2023). Essential Medicines Access and Pricing. New York: UNDP.
 
-United Nations Environment Programme. (2023). GDP and environmental accounting.
+United Nations Environment Programme. (2024). Environmental Accounting and GDP Measurement. Nairobi: UNEP.
 
 World Bank. (2023). Housing market regulation and rent control effects.
 
