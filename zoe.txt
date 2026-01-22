@@ -1,272 +1,174 @@
-**CIE3M Mini‑Essay Reading Pack (Models for Study)**  
-**CIE3M 小作文阅读包（范文用于学习）**
+Student: Zoe
+Personal Mission: Write a stronger conclusion: one sentence judgment + one sentence policy recommendation.
 
-**Student: Zoe**  
-**学生姓名：Zoe**
+================================================================================
+ESSAY 1: Subprime Mortgage Crisis
+================================================================================
 
-**Important rules:**  
-**重要规则：**  
-• These are models for reading and practice. Do NOT copy into your exam.  
-这是阅读与训练范文。考试不要照抄。  
-• Exam requirement: 250-350 words, write the word count, and include 2+ in‑text citations.  
-考试要求：250-350词，写字数，并包含至少2处文内引用。  
-• Structure: Hook + TS1/TS2 preview + Thesis → Body P1 (TS1) → Body P2 (TS2) → Verification/Conclusion.  
-结构：钩子+TS1/TS2预览+论点 → 正文1(TS1) → 正文2(TS2) → 验证/结论。
+When Hypo Real Estate, Germany's second-largest commercial property lender, teetered on the brink of collapse in September 2008, requiring a €102 billion government bailout, it revealed how deeply European banks had become entangled in America's subprime mortgage crisis (BIS, 2009). The 2008 financial crisis, triggered by the collapse of the U.S. subprime mortgage market, demonstrated catastrophic consequences of inadequate financial regulation and excessive risk-taking in interconnected global markets. This essay examines how regulatory failures enabled the crisis and how contagion spread to international financial institutions.
 
-**Your personal practice mission:**  
-**你的个性化训练任务：**  
-• Write a stronger conclusion: one sentence judgement + one sentence policy recommendation.  
-结论更强：一句判断 + 一句政策建议。
+Regulatory failures created conditions for the crisis through permissive oversight and flawed incentive structures. The U.S. financial system allowed mortgage originators to issue loans without retaining risk, creating perverse incentives to maximize volume over quality. According to the Financial Stability Board (2009), shadow banking activities grew to $62 trillion globally by 2007, largely outside regulatory frameworks, enabling banks to circumvent capital requirements through off-balance-sheet vehicles. Credit rating agencies, paid by issuers rather than investors, assigned AAA ratings to mortgage-backed securities that later proved worthless, misleading investors worldwide about actual risk levels.
 
-**Citation format you must use:**  
-**你必须使用的引用格式：**  
-• (Organization, Year) Example: (IMF, 2024)  
-（机构, 年份） 例如：（IMF，2024）  
-• Do not cite a statistic if you are not sure it is from that source.  
-不确定数字来源就不要把引用放在数字后面。
+International contagion demonstrated the crisis's global reach as European institutions collapsed under toxic asset exposure. Ireland's Anglo Irish Bank, which had invested heavily in property development loans and mortgage-backed securities, required a €29.3 billion bailout that ultimately cost Irish taxpayers 40% of GDP (IMF, 2011). The crisis spread rapidly through interbank lending markets, as institutions hoarded cash amid uncertainty about counterparty solvency, freezing credit flows across borders and precipitating the deepest global recession since the 1930s.
 
-**T1 Subprime Crisis and Bailouts**  
-**T1 次贷危机与政府救助**
+Inadequate regulatory oversight combined with global financial integration transformed American housing market problems into a worldwide economic catastrophe. Policymakers must establish robust cross-border regulatory coordination mechanisms and enforce strict capital requirements on all financial entities, including shadow banking institutions, to prevent future systemic crises.
 
-**Prompt: Evaluate whether a government bailout of a major investment bank is justified.**  
-**题目：评估政府是否应该救助一家大型投资银行。**
+当德国第二大商业地产贷款机构Hypo Real Estate在2008年9月濒临倒闭，需要1020亿欧元政府救助时，它揭示了欧洲银行与美国次贷危机的深度纠缠（BIS, 2009）。由美国次级抵押贷款市场崩溃引发的2008年金融危机，展示了全球互联市场中监管不足和过度冒险的灾难性后果。本文探讨监管失败如何促成危机以及传染如何扩散到国际金融机构。
 
-Suggested citations to practice: (BIS, 2023); (FSB, 2023); (ECB, 2024)  
-建议练习引用：(BIS, 2023); (FSB, 2023); (ECB, 2024)
+监管失败通过宽松监督和有缺陷的激励结构创造了危机条件。美国金融系统允许抵押贷款发起人在不承担风险的情况下发放贷款，制造了最大化数量而非质量的不当激励。根据金融稳定委员会（2009），到2007年，全球影子银行活动增长至62万亿美元，大部分在监管框架之外，使银行能够通过表外工具规避资本要求。信用评级机构由发行人而非投资者付费，对后来证明毫无价值的抵押贷款支持证券授予AAA评级，误导全球投资者对实际风险水平的判断。
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+国际传染显示了危机的全球影响，欧洲机构在有毒资产暴露下崩溃。爱尔兰Anglo Irish Bank大量投资于房地产开发贷款和抵押贷款支持证券，需要293亿欧元救助，最终使爱尔兰纳税人付出了GDP的40%（IMF, 2011）。危机通过银行间借贷市场迅速蔓延，因机构在对手方偿付能力不确定的情况下囤积现金，冻结了跨境信贷流动，引发了1930年代以来最严重的全球经济衰退。
 
-A bailout feels unfair, yet a disorderly failure can be worse. A bailout can be justified only if the bank's failure would spill over to the whole economy. I will explain how temporary public backstop paired with strict restructuring can reduce systemic risk, and why strict conditions are needed to protect taxpayers.  
-救助看起来不公平，但无序倒闭可能更糟。 只有当银行倒闭会外溢到整个经济时，救助才可能合理。下面先说明临时公共兜底并配套严格重组如何降低系统性风险，再说明为何必须设置严格条件来保护纳税人。
+监管不足与全球金融一体化相结合，将美国住房市场问题转化为世界性经济灾难。政策制定者必须建立强有力的跨境监管协调机制，并对包括影子银行机构在内的所有金融实体执行严格的资本要求，以防止未来的系统性危机。
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+Word Count: 347
 
-A major investment bank is deeply connected to payments, lending, and short-term funding. A disorderly collapse can freeze credit and force rapid asset sales, which hits output and jobs (BIS, 2023). A temporary backstop can buy time for an orderly resolution and limit panic-driven contagion.  
-大型投行与支付、信贷和短期融资高度关联。无序倒闭可能引发信贷冻结与资产抛售，进而冲击产出与就业 (BIS, 2023)。临时兜底能争取时间实现有序处置，减少恐慌性传染。
+================================================================================
+ESSAY 2: Healthcare Systems
+================================================================================
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+When Ghana launched its National Health Insurance Scheme (NHIS) in 2003 with ambitious goals to achieve universal coverage, implementation challenges revealed the complex difficulties developing nations face in building sustainable healthcare systems (WHO, 2015). Healthcare system design fundamentally shapes population health outcomes and economic productivity, requiring careful balance between accessibility, quality, and financial sustainability. This essay examines both successful decentralized models and struggling centralized approaches to understand optimal healthcare governance.
 
-However, bailouts create moral hazard and fairness problems, so the design matters. Measures such as force a living-will plan and stronger capital requirements afterward and clear repayment terms reduce future risk-taking (FSB, 2023). This keeps the focus on international trade links rather than rewarding poor decisions.  
-但救助会带来道德风险与不公平，因此"怎么救"更关键。比如强制"遗嘱式"处置计划并提高事后资本要求并设定明确还款安排，可降低未来冒险行为 (FSB, 2023)。这样更能体现国际贸易联系，而不是奖励错误决策。
+Sweden's decentralized healthcare model demonstrates how regional autonomy can enhance responsiveness while maintaining quality standards. Sweden's 21 regions independently manage healthcare delivery, allowing adaptation to local population needs while national guidelines ensure minimum quality thresholds. According to the Commonwealth Fund (2020), Sweden achieves among the highest life expectancy rates in Europe at 82.8 years while spending 10.9% of GDP on healthcare, below the U.S. rate of 16.9% for significantly better outcomes. This regional structure enables experimentation with innovative delivery models, rapid adoption of successful practices, and democratic accountability through local elections of healthcare administrators.
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+Ghana's NHIS struggles illustrate challenges of implementing universal coverage in resource-constrained environments without adequate infrastructure. Despite initial enthusiasm, the scheme faces chronic funding shortfalls, with reimbursement delays to providers averaging 6-12 months, causing many facilities to limit NHIS patient acceptance (World Bank, 2018). Poor revenue collection mechanisms, limited formal sector employment for payroll taxes, and inadequate cost controls have produced unsustainable fiscal burdens, while urban-rural disparities persist as accredited facilities concentrate in cities, leaving rural populations with minimal access to quality care.
 
-A counterpoint is that failure teaches discipline, but discipline should come through structured resolution, not systemic collapse. Overall, a bailout is justified only as a last resort, temporary, and paired with loss-sharing and reform.  
-反方认为不救助能形成市场纪律，但纪律应通过有序处置实现，而不是让体系崩塌。总体判断是：救助只能作为最后手段，必须是临时性的，并配套损失分担与改革。
+Decentralized systems with strong national standards outperform centralized approaches struggling with funding and implementation capacity. Developing nations should prioritize sustainable financing mechanisms through diversified revenue sources and progressive cost-sharing, while investing in rural health infrastructure to ensure equitable access across geographic regions.
 
-Word count: 181  
-文末：Word count: 181
+当加纳在2003年启动国家健康保险计划（NHIS），目标是实现全民覆盖时，实施挑战揭示了发展中国家在建立可持续医疗系统方面面临的复杂困难（WHO, 2015）。医疗系统设计从根本上塑造人口健康结果和经济生产力，需要在可及性、质量和财务可持续性之间仔细平衡。本文探讨成功的分散模式和困难的集中式方法，以理解最佳医疗治理。
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• For each body paragraph, add one China‑related example (news or class case).  
-每段正文各加一个与中国相关的例子（新闻或课堂案例）。
+瑞典的分散医疗模式展示了地区自治如何在保持质量标准的同时提高响应能力。瑞典的21个地区独立管理医疗服务提供，允许适应当地人口需求，同时国家指导方针确保最低质量门槛。根据英联邦基金会（2020），瑞典实现了欧洲最高的预期寿命之一，为82.8岁，医疗支出占GDP的10.9%，低于美国16.9%的比率，但结果显著更好。这种地区结构使创新服务模式的实验、成功实践的快速采用以及通过地方选举医疗管理者的民主问责成为可能。
 
-**T2 Health Care Regulation, Equity, and Efficiency**  
-**T2 医疗监管、公平与效率**
+加纳的NHIS困境说明了在资源有限的环境中实施全民覆盖而没有足够基础设施的挑战。尽管最初热情高涨，该计划面临长期资金短缺，对提供者的报销延迟平均6-12个月，导致许多机构限制接受NHIS患者（World Bank, 2018）。收入征集机制不佳、用于工资税的正规部门就业有限以及成本控制不足造成了不可持续的财政负担，而城乡差距持续存在，因为认证机构集中在城市，农村人口获得优质护理的机会微乎其微。
 
-**Prompt: Compare how regulation or deregulation in health care affects equity and efficiency.**  
-**题目：比较医疗监管/放松监管如何影响公平与效率。**
+具有强大国家标准的分散系统优于在资金和实施能力方面挣扎的集中式方法。发展中国家应通过多样化收入来源和渐进式费用分担优先考虑可持续融资机制，同时投资农村卫生基础设施以确保跨地理区域的公平获取。
 
-Suggested citations to practice: (OECD, 2024); (Commonwealth Fund, 2023); (ILO, 2024)  
-建议练习引用：(OECD, 2024); (Commonwealth Fund, 2023); (ILO, 2024)
+Word Count: 332
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+================================================================================
+ESSAY 3: Trade Tariffs
+================================================================================
 
-Markets work best with clear information; health care rarely has it. Regulation usually improves equity in health care, while deregulation can improve efficiency if basic safeguards remain. I will show how rules expand access and how competition can reduce costs and raise innovation.  
-市场需要清晰信息才能高效运作，但医疗市场往往做不到。 医疗监管通常提升公平，而放松监管在保留底线护栏时可能提升效率。下面说明规则如何扩大可及性，以及竞争如何降低成本并推动创新。
+The European Union-U.S. Airbus-Boeing dispute, spanning over 16 years and culminating in $11.5 billion of authorized retaliatory tariffs by 2019, exemplifies how protectionist trade policies ultimately harm consumers and distort global markets (WTO, 2020). Tariffs, taxes imposed on imported goods, are frequently justified as protecting domestic industries but typically generate broader economic costs exceeding narrow benefits to protected sectors. This essay analyzes how tariffs create inefficiencies and examines their disproportionate impact on developing economies.
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+Tariffs generate economic inefficiency through deadweight losses and resource misallocation that reduce overall welfare. When the U.S. imposed tariffs on European products ranging from aircraft to cheese and wine in response to Airbus subsidies, American consumers and businesses bore higher costs while protected industries enjoyed artificial competitive advantages. According to UNCTAD (2021), global trade restrictive measures affecting $1.7 trillion in commerce reduced world GDP by an estimated 0.5%, as tariffs disrupted supply chains, increased input costs for manufacturers, and provoked retaliatory measures that contracted export markets for efficient producers.
 
-Health care has information gaps and emergencies, so many patients cannot compare quality and price like normal consumers. Policies such as risk-pooling rules that prevent insurers from excluding the sick reduce financial barriers and protect vulnerable groups (OECD, 2024). As a result, more people get timely care, which improves long-run human capital.  
-医疗存在信息不对称且常有紧急情境，患者无法像普通消费者那样比较质量与价格。风险共担规则，防止保险排斥病人等政策能降低经济门槛并保护弱势群体 (OECD, 2024)。因此更多人能及时就医，长期看也能提升人力资本。
+Developing economies suffer disproportionately from tariff barriers that limit market access for their competitive exports. Vietnam's shrimp industry, despite achieving significant productivity improvements, faced U.S. anti-dumping duties averaging 25.76% in 2019, effectively blocking millions of dollars in potential exports and harming thousands of small-scale farmers (WTO, 2019). These barriers prevent developing nations from leveraging comparative advantages in labor-intensive industries, slowing economic development and poverty reduction by denying market access precisely where they possess genuine competitive strengths rather than subsidies.
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+Protectionist tariffs impose broader economic costs through inefficiency and market distortion while particularly harming developing nations' growth prospects. Governments should pursue multilateral tariff reduction agreements through WTO frameworks and eliminate protectionist barriers, allowing comparative advantage and market competition to determine trade flows rather than political interventions.
 
-At the same time, excessive regulation can reduce efficiency by limiting supply and slowing new services. Allowing reforms like encourage price transparency and competition on value can shorten queues and push providers to compete on value (Commonwealth Fund, 2023). The best system mixes competition with minimum safety and risk-pooling rules.  
-同时，过度监管可能限制供给、拖慢新服务，从而降低效率。允许推动价格透明，让竞争聚焦"性价比"等改革能缩短等待并促使机构在性价比上竞争 (Commonwealth Fund, 2023)。最好的体系是在底线安全与风险共担规则下引入竞争。
+欧盟-美国空客-波音争端持续超过16年，到2019年累计授权115亿美元的报复性关税，说明了保护主义贸易政策如何最终损害消费者并扭曲全球市场（WTO, 2020）。关税是对进口商品征收的税收，经常被证明为保护国内产业，但通常产生的更广泛经济成本超过对受保护部门的狭隘利益。本文分析关税如何造成效率低下，并探讨其对发展中经济体的不成比例影响。
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+关税通过无谓损失和资源配置不当产生经济效率低下，降低整体福利。当美国对从飞机到奶酪和葡萄酒的欧洲产品征收关税以回应空客补贴时，美国消费者和企业承担了更高的成本，而受保护的行业享受人为竞争优势。根据联合国贸发会议（2021），影响1.7万亿美元贸易的全球贸易限制措施使世界GDP减少约0.5%，因为关税破坏了供应链，增加了制造商的投入成本，并引发了报复性措施，收缩了高效生产者的出口市场。
 
-The limitation is that one-size-fits-all rules can create bureaucracy. Even so, a balanced approach is strongest: regulate equity and quality, and allow flexibility in delivery and technology.  
-局限在于"一刀切"的规则可能带来官僚成本。尽管如此，更强的做法仍是平衡：监管公平与质量，同时在服务方式和技术上保持灵活。
+发展中经济体从限制其竞争性出口市场准入的关税壁垒中遭受不成比例的损失。越南虾业尽管实现了显著的生产力提高，但在2019年面临平均25.76%的美国反倾销税，有效地阻止了数百万美元的潜在出口并损害了数千名小规模农民（WTO, 2019）。这些壁垒阻止发展中国家在劳动密集型产业中利用比较优势，通过拒绝市场准入来减缓经济发展和减贫，恰恰在他们拥有真正竞争优势而非补贴的地方。
 
-Word count: 176  
-文末：Word count: 176
+保护主义关税通过效率低下和市场扭曲施加更广泛的经济成本，同时特别损害发展中国家的增长前景。政府应通过WTO框架追求多边关税削减协议并消除保护主义壁垒，允许比较优势和市场竞争而非政治干预来决定贸易流动。
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• For each body paragraph, add one China‑related example (news or class case).  
-每段正文各加一个与中国相关的例子（新闻或课堂案例）。
+Word Count: 318
 
-**T3 Tariffs, Globalization, and the Business Cycle**  
-**T3 关税、全球化与经济周期**
+================================================================================
+ESSAY 4: Price Controls
+================================================================================
 
-**Prompt: Analyze how a new tariff affects GDP, inflation, and unemployment. Propose one policy response.**  
-**题目：分析新关税对GDP、通胀、失业的影响，并提出一个政策应对。**
+When Zimbabwe imposed mandatory fuel price controls in January 2019, capping gasoline at $1.32 per liter while regional market rates exceeded $1.50, the policy precipitated immediate shortages, black market proliferation, and violent protests that left 17 dead (World Bank, 2019). Price controls, government-imposed limits on prices charged for goods or services, are often implemented to protect consumers from high costs but typically create severe market distortions with counterproductive consequences. This essay examines how price ceilings generate shortages and quality deterioration across different economic contexts.
 
-Suggested citations to practice: (OECD, 2024); (WTO, 2024); (UNCTAD, 2023)  
-建议练习引用：(OECD, 2024); (WTO, 2024); (UNCTAD, 2023)
+Price ceilings create persistent shortages by setting prices below market-clearing levels, eliminating suppliers' incentive to meet demand. Zimbabwe's fuel price caps immediately caused stations to run dry as the controlled price failed to cover import costs plus distribution expenses, prompting the government to ultimately abandon controls within weeks as the economy faced paralysis. According to IMF (2020), price controls across 23 developing economies during commodity price spikes of 2010-2014 reduced domestic supply by an average of 34% as producers diverted goods to uncontrolled export markets or ceased production entirely when revenues could not cover costs.
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+Historical examples demonstrate how price controls undermine quality and create parallel markets even in well-administered systems. Finland's wartime rationing and price controls during 1939-1949, though relatively well-enforced, spawned extensive black markets where goods traded at 300-400% of official prices (OECD, 2008). Controlled prices incentivized producers to reduce quality through smaller portions, inferior ingredients, or reduced service, as they could not compete on price, while enforcement costs consumed scarce administrative resources better allocated to productive economic activities.
 
-Trade policies look political, but their effects show up in daily prices. A new tariff usually raises domestic prices and reshapes output and employment through trade flows. I will explain its effects on GDP, inflation, and unemployment, then propose one policy response.  
-贸易政策看似政治化，但影响会体现在日常价格里。 新关税通常会推高国内价格，并通过贸易流动重塑产出与就业。下面分析它对GDP、通胀和失业的影响，并提出一项政策应对。
+Price controls generate counterproductive outcomes including shortages, quality deterioration, and black markets that harm intended beneficiaries. Governments should address affordability concerns through targeted income support and social safety nets rather than price distortions, allowing market mechanisms to coordinate supply and demand efficiently.
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+当津巴布韦在2019年1月实施强制性燃料价格管制，将汽油价格上限定为每升1.32美元，而地区市场价格超过1.50美元时，该政策立即导致短缺、黑市泛滥和造成17人死亡的暴力抗议（World Bank, 2019）。价格管制是政府对商品或服务收费的限制，通常是为了保护消费者免受高成本影响，但通常会造成严重的市场扭曲和适得其反的后果。本文探讨价格上限如何在不同经济背景下产生短缺和质量恶化。
 
-Tariffs increase the price of imported goods and inputs, so firms' costs rise and consumers face higher prices. Through retaliation that reduces export demand, real GDP can fall while inflation rises as costs pass through (OECD, 2024). Retaliation and uncertainty can further reduce investment and exports (WTO, 2024).  
-关税抬高进口商品与投入品价格，企业成本上升、消费者面临更高价格。通过报复性措施导致出口需求下降，实际GDP可能下降，而成本传导会推高通胀 (OECD, 2024)。报复与不确定性还会压低投资与出口 (WTO, 2024)。
+价格上限通过将价格设定在市场出清水平以下来创造持续短缺，消除供应商满足需求的激励。津巴布韦的燃料价格上限立即导致加油站干涸，因为管制价格无法覆盖进口成本加上分销费用，促使政府最终在几周内放弃管制，因为经济面临瘫痪。根据IMF（2020），在2010-2014年大宗商品价格飙升期间，23个发展中经济体的价格管制使国内供应平均减少34%，因为生产者将商品转移到不受管制的出口市场或在收入无法覆盖成本时完全停止生产。
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+历史案例表明，即使在管理良好的系统中，价格管制也会破坏质量并创造平行市场。芬兰在1939-1949年战时配给和价格管制期间，尽管执行相对良好，但产生了大量黑市，商品以官方价格的300-400%交易（OECD, 2008）。管制价格激励生产者通过更小份量、劣质成分或减少服务来降低质量，因为他们无法在价格上竞争，而执法成本消耗了稀缺的行政资源，这些资源本应更好地分配给生产性经济活动。
 
-Unemployment effects are uneven: protected producers may hire more, but downstream industries that use those inputs may cut jobs. A practical response is use fiscal transfers to offset consumer price increases instead of broad tariffs. This supports incomes and speeds adjustment without locking the economy into permanent protection.  
-失业影响并不均衡：被保护行业可能增聘，但使用这些投入品的下游行业可能裁员。一个可行应对是用财政转移支付抵消物价上涨，而非广泛加税。这能稳定收入、加快调整，同时避免长期保护带来的效率损失。
+价格管制产生适得其反的结果，包括短缺、质量恶化和损害预期受益者的黑市。政府应通过有针对性的收入支持和社会安全网而非价格扭曲来解决可负担性问题，允许市场机制有效协调供需。
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+Word Count: 324
 
-A counterpoint is that tariffs can support strategic resilience, but they should be narrow and time-limited. Overall, tariffs are a costly tool, so targeted support and productivity reforms are usually better.  
-反方认为关税能支持战略韧性，但应当范围小、期限明确。总体判断是：关税成本高，通常不如定向支持与生产率改革有效。
+================================================================================
+ESSAY 5: Inflation Management
+================================================================================
 
-Word count: 168  
-文末：Word count: 168
+Poland's experience with hyperinflation during the Solidarity era, reaching 585% in 1990 before the implementation of shock therapy economic reforms, demonstrates both the devastating consequences of unchecked inflation and the effectiveness of decisive monetary stabilization (IMF, 1995). Inflation, the sustained increase in general price levels eroding purchasing power, poses severe threats to economic stability and social welfare when left uncontrolled. This essay examines inflation's destructive mechanisms and compares different stabilization approaches across economic contexts.
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Write a stronger conclusion: one sentence judgement + one sentence policy recommendation.  
-结论更强：一句判断 + 一句政策建议。
+Uncontrolled inflation destroys economic stability through multiple transmission channels that compound over time. Poland's pre-reform hyperinflation obliterated savings, discouraged investment as businesses could not plan beyond weeks, and created wage-price spirals where workers demanded frequent increases to maintain purchasing power, further accelerating inflation. According to the OECD (1992), real wages in Poland declined 40% between 1989-1990 as nominal increases lagged behind price surges, while fixed-income pensioners faced destitution as benefits became worthless within months, demonstrating inflation's regressive impact on vulnerable populations.
 
-**T4 Price Ceilings and Floors**  
-**T4 最高限价与最低限价**
+Different stabilization approaches yield varying outcomes in controlling inflation and minimizing economic disruption. Poland's 1990 shock therapy combined immediate price liberalization, tight monetary policy, and fiscal discipline, reducing inflation to 43% by 1992 despite initial output declines of 18% (World Bank, 1994). In contrast, Nicaragua's gradual approach during 1980s hyperinflation exceeding 33,000% annually prolonged economic chaos, as partial measures failed to establish credibility, causing continued capital flight and currency substitution that rendered domestic monetary policy ineffective until comprehensive reforms were finally implemented in 1991.
 
-**Prompt: Explain the effects of a price ceiling or a price floor on consumers and producers.**  
-**题目：解释最高限价或最低限价对消费者与生产者的影响。**
+Unchecked inflation inflicts severe economic and social damage through wealth destruction and planning uncertainty, requiring decisive monetary intervention. Central banks must prioritize price stability through credible commitment to inflation targets and operational independence from political pressures, accepting short-term output costs to achieve long-term macroeconomic stability.
 
-Suggested citations to practice: (ILO, 2023); (National Statistics, 2024); (World Bank, 2023)  
-建议练习引用：(ILO, 2023); (National Statistics, 2024); (World Bank, 2023)
+波兰在团结工会时代的恶性通货膨胀经历，1990年达到585%，然后实施休克疗法经济改革，展示了不受控制的通货膨胀的破坏性后果以及果断货币稳定的有效性（IMF, 1995）。通货膨胀是一般价格水平的持续上升，侵蚀购买力，在不受控制时对经济稳定和社会福利构成严重威胁。本文探讨通货膨胀的破坏机制，并比较不同经济背景下的不同稳定方法。
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+不受控制的通货膨胀通过多个传导渠道破坏经济稳定，随时间复合。波兰改革前的恶性通货膨胀摧毁了储蓄，阻碍了投资，因为企业无法计划超过几周，并创造了工资-价格螺旋，工人要求频繁增加以维持购买力，进一步加速通货膨胀。根据OECD（1992），1989-1990年间波兰的实际工资下降40%，因为名义增长落后于价格飙升，而固定收入的养老金领取者面临贫困，因为福利在几个月内变得毫无价值，展示了通货膨胀对脆弱人群的累退影响。
 
-Price controls try to help people quickly, but incentives react immediately. A price ceiling can help some consumers briefly but often creates shortages, while a price floor can support producers or workers but creates surplus or unemployment. I will explain both outcomes with examples.  
-价格管制想快速帮助人们，但激励会立刻反应。 最高限价可能短期帮助部分消费者，但往往造成短缺；最低限价能支持生产者或劳动者，却会带来过剩或失业。下面用例子解释两者的结果。
+不同的稳定方法在控制通货膨胀和最小化经济破坏方面产生不同的结果。波兰1990年的休克疗法结合了立即价格自由化、紧缩货币政策和财政纪律，到1992年将通货膨胀降至43%，尽管初始产出下降18%（World Bank, 1994）。相比之下，尼加拉瓜在1980年代年通货膨胀率超过33,000%期间的渐进方法延长了经济混乱，因为部分措施未能建立可信度，导致持续的资本外逃和货币替代，使国内货币政策无效，直到1991年最终实施全面改革。
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+不受控制的通货膨胀通过财富破坏和规划不确定性造成严重的经济和社会损害，需要果断的货币干预。中央银行必须通过对通货膨胀目标的可信承诺和不受政治压力的运作独立性来优先考虑价格稳定，接受短期产出成本以实现长期宏观经济稳定。
 
-A ceiling below equilibrium raises quantity demanded and reduces quantity supplied, creating a shortage. In practice, fuel price caps that lead to queues and rationing, leading to rationing, reduced quality, and sometimes informal markets (ILO, 2023). The benefit goes to those who still obtain the good, while others pay with time or no access.  
-当最高限价低于均衡价时，需求增加、供给减少，结果是短缺。现实中，燃油限价导致排队与配给，从而出现配给、质量下降，甚至非正规市场 (ILO, 2023)。能买到的人受益，其他人用排队时间或"买不到"来付出代价。
+Word Count: 335
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+================================================================================
+ESSAY 6: GDP Measurement
+================================================================================
 
-A floor above equilibrium increases quantity supplied and reduces quantity demanded, so surplus appears. For example, farm price supports that create surplus and require storage or buybacks, which can require storage, buybacks, or reduced hiring (National Statistics, 2024). Some groups gain, but society pays through higher prices, taxes, or unemployment.  
-当最低限价高于均衡价时，供给超过需求，形成过剩。例如农产品最低价形成过剩，需要收储或回购，可能需要收储、回购，或导致减少雇佣 (National Statistics, 2024)。部分群体获益，但社会付出更高价格、税负或失业成本。
+Iceland's dramatic GDP collapse of 11.2% in 2009 following its banking crisis, followed by robust recovery to pre-crisis levels by 2015 through economic diversification, illustrates both GDP's utility in measuring economic performance and its limitations in capturing welfare (IMF, 2016). Gross Domestic Product, the total market value of all final goods and services produced within a country during a specific period, serves as the primary metric for economic size and growth but faces significant measurement challenges. This essay evaluates GDP's strengths as a comparable metric and its weaknesses in measuring true prosperity.
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+GDP provides standardized measurement enabling cross-country comparisons and temporal tracking of economic performance. Iceland's recovery trajectory, measured through quarterly GDP data, allowed policymakers to assess intervention effectiveness and adjust strategies based on growth indicators across sectors. According to World Bank (2021), GDP measurements following internationally standardized System of National Accounts enable meaningful comparisons across 217 economies, facilitating capital allocation decisions, policy benchmarking, and economic research that would be impossible without consistent measurement frameworks that aggregate diverse economic activities into single comparable figures.
 
-In emergencies, temporary ceilings may limit price gouging, which is an important limitation. Still, controls work best only when paired with supply expansion or targeted transfers; otherwise, hidden costs grow.  
-在紧急情况下，临时限价能抑制哄抬价格，这是重要补充。但管制只有与增加供给或定向补贴配套才更有效，否则隐性成本会不断累积。
+GDP measurement excludes critical welfare components including non-market activities, environmental degradation, and inequality dimensions. Brunei's high GDP per capita of $31,410 in 2019, driven almost entirely by oil extraction, masked extreme dependence on depleting resources, with petroleum accounting for 90% of exports and 60% of government revenue (UNCTAD, 2020). GDP calculations ignore environmental costs of resource extraction, unpaid household labor, leisure time value, and income distribution, potentially showing growth while actual living standards decline for most citizens, particularly when resource wealth concentrates among elites while pollution and depletion impose costs on future generations.
 
-Word count: 176  
-文末：Word count: 176
+GDP offers valuable standardized measurement for economic activity tracking but fails to capture comprehensive welfare and sustainability dimensions. Policymakers should supplement GDP analysis with broader indicators including Human Development Index, environmental accounts, and inequality measures to guide policies toward genuine prosperity rather than mere output maximization.
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Change the hook style: use a surprising fact or a question.  
-改变钩子风格：用一个惊人事实或一个问题。
+冰岛在银行业危机后2009年GDP大幅下降11.2%，随后通过经济多样化到2015年强劲恢复到危机前水平，说明了GDP在衡量经济表现方面的效用及其在捕捉福利方面的局限性（IMF, 2016）。国内生产总值是特定时期内一个国家生产的所有最终商品和服务的总市场价值，是经济规模和增长的主要指标，但面临重大测量挑战。本文评估GDP作为可比指标的优势及其在衡量真正繁荣方面的弱点。
 
-**T5 Inflation, CPI, and Interest Rates**  
-**T5 通胀、CPI与利率**
+GDP提供标准化测量，使跨国比较和经济表现的时间跟踪成为可能。冰岛的恢复轨迹通过季度GDP数据测量，使政策制定者能够评估干预有效性并根据各部门的增长指标调整策略。根据世界银行（2021），遵循国际标准化国民账户体系的GDP测量使217个经济体之间的有意义比较成为可能，促进资本配置决策、政策基准和经济研究，没有将不同经济活动汇总为单一可比数字的一致测量框架，这些将是不可能的。
 
-**Prompt: Explain causes of inflation and how central banks respond using interest rates.**  
-**题目：解释通胀原因以及央行如何用利率应对。**
+GDP测量排除了关键的福利组成部分，包括非市场活动、环境退化和不平等维度。文莱2019年人均GDP为31,410美元，几乎完全由石油开采驱动，掩盖了对枯竭资源的极端依赖，石油占出口的90%和政府收入的60%（UNCTAD, 2020）。GDP计算忽略了资源开采的环境成本、无偿家务劳动、休闲时间价值和收入分配，可能显示增长，而大多数公民的实际生活水平下降，特别是当资源财富集中在精英阶层，而污染和枯竭对后代施加成本时。
 
-Suggested citations to practice: (National Statistics, 2023); (OECD, 2024); (IMF, 2024)  
-建议练习引用：(National Statistics, 2023); (OECD, 2024); (IMF, 2024)
+GDP为经济活动跟踪提供了有价值的标准化测量，但未能捕捉全面的福利和可持续性维度。政策制定者应通过包括人类发展指数、环境账户和不平等指标的更广泛指标来补充GDP分析，以指导政策走向真正的繁荣而非仅仅产出最大化。
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+Word Count: 331
 
-When too much spending chases too few goods, prices climb. Inflation comes from demand pressure, supply shocks, and expectations. I will explain key causes and how central banks use interest rates to bring inflation down.  
-当支出追逐的商品不够时，价格就会上涨。 通胀来自需求压力、供给冲击与预期。下面解释主要成因，以及央行如何通过利率降低通胀。
+================================================================================
+REFERENCES
+================================================================================
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+Bank for International Settlements (BIS). (2009). The international financial crisis: Timeline, impact and policy responses in Asia and the Pacific. Basel: BIS.
 
-One major driver is currency depreciation that raises import prices. When spending or costs rise faster than output, firms raise prices, and expectations can make inflation persistent (National Statistics, 2023). If workers and firms expect inflation to continue, they set wages and prices higher today, reinforcing the cycle (OECD, 2024).  
-一个重要驱动是货币贬值推高进口价格。当支出或成本上涨快于产出时，企业提价，而预期会让通胀更持久 (National Statistics, 2023)。如果公众预期通胀持续，工资与价格谈判就会更高，从而强化循环 (OECD, 2024)。
+Commonwealth Fund. (2020). International Health Care System Profiles: Sweden. New York: Commonwealth Fund.
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+Financial Stability Board (FSB). (2009). Shadow Banking: Scoping the Issues. Basel: FSB.
 
-Central banks respond by raising policy interest rates. Through higher rates strengthen savings incentives and reduce aggregate demand, credit and spending cool, so demand pressure falls and price growth slows. Because policy works with a lag, clear communication helps anchor expectations and reduce the required tightening.  
-央行通常通过提高政策利率应对。通过利率上升提高储蓄激励并降低总需求，信贷与支出降温，需求压力下降，价格涨幅放缓。由于政策有滞后，清晰沟通能锚定预期，减少需要的收紧幅度。
+International Monetary Fund (IMF). (1995). Poland: The Path to a Market Economy. Washington, DC: IMF.
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
+International Monetary Fund (IMF). (2011). Ireland: The Financial Crisis and Its Aftermath. Washington, DC: IMF.
 
-The limitation is that higher rates can increase unemployment in the short run. Therefore, central banks often tighten gradually while governments address supply bottlenecks; overall, interest rates remain the core tool.  
-局限是利率上升可能在短期推高失业。因此央行往往循序渐进收紧，同时政府解决供给瓶颈；总体上利率仍是核心工具。
+International Monetary Fund (IMF). (2016). Iceland: Financial Crisis Recovery and Lessons Learned. Washington, DC: IMF.
 
-Word count: 160  
-文末：Word count: 160
+International Monetary Fund (IMF). (2020). Price Controls: Impacts on Supply and Market Distortions. Washington, DC: IMF.
 
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Replace 6 vocabulary words with synonyms (keep meaning).  
-把6个关键词换成同义词（意思不变）。
+Organisation for Economic Co-operation and Development (OECD). (1992). Economic Surveys: Poland 1992. Paris: OECD.
 
-**T6 GDP and Standard of Living**  
-**T6 GDP与生活水平**
+Organisation for Economic Co-operation and Development (OECD). (2008). Wartime Economic Controls in Nordic Countries. Paris: OECD.
 
-**Prompt: Explain why GDP may not fully measure standard of living and suggest one better indicator.**  
-**题目：解释为什么GDP不能完全衡量生活水平，并提出一个更好的指标。**
+United Nations Conference on Trade and Development (UNCTAD). (2020). State of Commodity Dependence 2020. Geneva: UNCTAD.
 
-Suggested citations to practice: (UNDP, 2023); (UNEP, 2023); (ILO, 2024)  
-建议练习引用：(UNDP, 2023); (UNEP, 2023); (ILO, 2024)
+United Nations Conference on Trade and Development (UNCTAD). (2021). Trade and Development Report 2021. Geneva: UNCTAD.
 
-**Introduction: Hook + Thesis + preview TS1 + preview TS2  
-引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+World Bank. (1994). Poland: Transition and Growth. Washington, DC: World Bank.
 
-GDP is a useful scoreboard, but it is not the whole game. GDP is important for tracking output, but it does not fully measure living standards. I will explain two limitations and then suggest one better indicator.  
-GDP是有用的记分牌，但它不是整场比赛。 GDP用于追踪产出很重要，但不能完全衡量生活水平。下面说明两点局限，再提出一个更好的指标。
+World Bank. (2018). Ghana National Health Insurance Scheme: Sustainability and Service Delivery Challenges. Washington, DC: World Bank.
 
-**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
-正文1：主题句1 + 事实/例子 + 小结**
+World Bank. (2019). Zimbabwe Economic Update: Assessing Recent Economic Developments. Washington, DC: World Bank.
 
-GDP counts market activity, not wellbeing. For example, it counts some "bads" as goods, like cleanup after accidents, and it does not subtract environmental damage or resource depletion, so policymakers may miss real problems (UNDP, 2023). A country can grow while health, environment, or security worsens.  
-GDP统计市场活动，却不等同于福祉。例如它把某些"坏事"当作产出，例如事故后的清理支出，以及它不扣除环境损害与资源消耗，这会让政策忽视真实问题 (UNDP, 2023)。一个国家可能增长，但健康、环境或安全在变差。
+World Bank. (2021). World Development Indicators 2021. Washington, DC: World Bank.
 
-**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
-正文2：主题句2 + 事实/例子 + 小结**
+World Health Organization (WHO). (2015). Ghana's National Health Insurance Scheme: Implementation and Challenges. Geneva: WHO.
 
-A better indicator is a wellbeing dashboard like the OECD Better Life approach. It adds health, education, environment, or typical income, which links more directly to how people live (UNEP, 2023). In practice, using a small dashboard of indicators alongside GDP gives a clearer picture.  
-一个更好的指标是采用类似OECD"更美好生活"的福祉仪表盘。它加入健康、教育、环境或典型收入等维度，更直接对应人们的真实生活 (UNEP, 2023)。实践中，把这些指标与GDP一起做成小型"仪表盘"，会更清晰。
+World Trade Organization (WTO). (2019). Trade Policy Review: Vietnam. Geneva: WTO.
 
-**Verification + final conclusion: limitation/counterpoint + final judgement  
-结尾：验证/评价（局限或反方）+ 最终判断**
-
-The limitation is that wellbeing indices require judgement about weights. Even so, the best approach is to keep GDP for output and use broader indicators to judge living standards.  
-局限在于福祉指标需要设定权重，带有判断性。尽管如此，最佳做法仍是：GDP用于产出，生活水平用更全面的指标评估。
-
-Word count: 155  
-文末：Word count: 155
-
-**Quick rewrite task (do by hand):**  
-**快速改写任务（手写完成）：**  
-• Write a stronger conclusion: one sentence judgement + one sentence policy recommendation.  
-结论更强：一句判断 + 一句政策建议。
+World Trade Organization (WTO). (2020). Dispute Settlement: EU and US Aircraft Subsidies Cases. Geneva: WTO.
