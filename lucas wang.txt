@@ -1,0 +1,272 @@
+**CIE3M Mini‑Essay Reading Pack (Models for Study)**  
+**CIE3M 小作文阅读包（范文用于学习）**
+
+**Student: Lucas Wang**  
+**学生姓名：Lucas Wang**
+
+**Important rules:**  
+**重要规则：**  
+• These are models for reading and practice. Do NOT copy into your exam.  
+这是阅读与训练范文。考试不要照抄。  
+• Exam requirement: 250-350 words, write the word count, and include 2+ in‑text citations.  
+考试要求：250-350词，写字数，并包含至少2处文内引用。  
+• Structure: Hook + TS1/TS2 preview + Thesis → Body P1 (TS1) → Body P2 (TS2) → Verification/Conclusion.  
+结构：钩子+TS1/TS2预览+论点 → 正文1(TS1) → 正文2(TS2) → 验证/结论。
+
+**Your personal practice mission:**  
+**你的个性化训练任务：**  
+• Underline where 2 citations will go and explain why in the margin.  
+标出两处引用位置，并在旁边写原因。
+
+**Citation format you must use:**  
+**你必须使用的引用格式：**  
+• (Organization, Year) Example: (IMF, 2024)  
+（机构, 年份） 例如：（IMF，2024）  
+• Do not cite a statistic if you are not sure it is from that source.  
+不确定数字来源就不要把引用放在数字后面。
+
+**T1 Subprime Crisis and Bailouts**  
+**T1 次贷危机与政府救助**
+
+**Prompt: Evaluate whether a government bailout of a major investment bank is justified.**  
+**题目：评估政府是否应该救助一家大型投资银行。**
+
+Suggested citations to practice: (FDIC, 2023); (IMF, 2024); (ECB, 2024)  
+建议练习引用：(FDIC, 2023); (IMF, 2024); (ECB, 2024)
+
+**Introduction: Hook + Thesis + preview TS1 + preview TS2  
+引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+
+A bank collapse is not just a headline; it can be a credit blackout. A bailout can be justified only if the bank's failure would spill over to the whole economy. I will explain how short-term liquidity support to prevent a payments freeze can reduce systemic risk, and why strict conditions are needed to protect taxpayers.  
+银行倒闭不只是新闻标题，它可能变成信贷"停电"。 只有当银行倒闭会外溢到整个经济时，救助才可能合理。下面先说明提供短期流动性支持，防止支付体系冻结如何降低系统性风险，再说明为何必须设置严格条件来保护纳税人。
+
+**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
+正文1：主题句1 + 事实/例子 + 小结**
+
+A major investment bank is deeply connected to payments, lending, and short-term funding. A disorderly collapse can freeze credit and force rapid asset sales, which hits output and jobs (FDIC, 2023). A temporary backstop can buy time for an orderly resolution and limit panic-driven contagion.  
+大型投行与支付、信贷和短期融资高度关联。无序倒闭可能引发信贷冻结与资产抛售，进而冲击产出与就业 (FDIC, 2023)。临时兜底能争取时间实现有序处置，减少恐慌性传染。
+
+**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
+正文2：主题句2 + 事实/例子 + 小结**
+
+However, bailouts create moral hazard and fairness problems, so the design matters. Measures such as charge a penalty rate and set a clear repayment schedule and clear repayment terms reduce future risk-taking (IMF, 2024). This keeps the focus on social equity rather than rewarding poor decisions.  
+但救助会带来道德风险与不公平，因此"怎么救"更关键。比如收取惩罚性利率并设定明确还款安排并设定明确还款安排，可降低未来冒险行为 (IMF, 2024)。这样更能体现社会公平，而不是奖励错误决策。
+
+**Verification + final conclusion: limitation/counterpoint + final judgement  
+结尾：验证/评价（局限或反方）+ 最终判断**
+
+A counterpoint is that failure teaches discipline, but discipline should come through structured resolution, not systemic collapse. Overall, a bailout is justified only as a last resort, temporary, and paired with loss-sharing and reform.  
+反方认为不救助能形成市场纪律，但纪律应通过有序处置实现，而不是让体系崩塌。总体判断是：救助只能作为最后手段，必须是临时性的，并配套损失分担与改革。
+
+Word count: 185  
+文末：Word count: 185
+
+**Quick rewrite task (do by hand):**  
+**快速改写任务（手写完成）：**  
+• Turn one paragraph into a PEEL paragraph (Point‑Evidence‑Explain‑Link).  
+把一段改成PEEL结构（观点‑证据‑解释‑回扣）。
+
+**T2 Health Care Regulation, Equity, and Efficiency**  
+**T2 医疗监管、公平与效率**
+
+**Prompt: Compare how regulation or deregulation in health care affects equity and efficiency.**  
+**题目：比较医疗监管/放松监管如何影响公平与效率。**
+
+Suggested citations to practice: (World Bank, 2024); (Commonwealth Fund, 2023); (OECD, 2024)  
+建议练习引用：(World Bank, 2024); (Commonwealth Fund, 2023); (OECD, 2024)
+
+**Introduction: Hook + Thesis + preview TS1 + preview TS2  
+引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+
+Markets work best with clear information; health care rarely has it. Regulation usually improves equity in health care, while deregulation can improve efficiency if basic safeguards remain. I will show how rules expand access and how competition can reduce costs and raise innovation.  
+市场需要清晰信息才能高效运作，但医疗市场往往做不到。 医疗监管通常提升公平，而放松监管在保留底线护栏时可能提升效率。下面说明规则如何扩大可及性，以及竞争如何降低成本并推动创新。
+
+**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
+正文1：主题句1 + 事实/例子 + 小结**
+
+Health care has information gaps and emergencies, so many patients cannot compare quality and price like normal consumers. Policies such as quality standards, licensing, and safety enforcement reduce financial barriers and protect vulnerable groups (World Bank, 2024). As a result, more people get timely care, which improves long-run human capital.  
+医疗存在信息不对称且常有紧急情境，患者无法像普通消费者那样比较质量与价格。质量标准、执照制度与安全执法等政策能降低经济门槛并保护弱势群体 (World Bank, 2024)。因此更多人能及时就医，长期看也能提升人力资本。
+
+**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
+正文2：主题句2 + 事实/例子 + 小结**
+
+At the same time, excessive regulation can reduce efficiency by limiting supply and slowing new services. Allowing reforms like expand telemedicine and retail clinics to lower transaction costs can shorten queues and push providers to compete on value (Commonwealth Fund, 2023). The best system mixes competition with minimum safety and risk-pooling rules.  
+同时，过度监管可能限制供给、拖慢新服务，从而降低效率。允许扩展远程医疗与便民诊所，降低交易成本等改革能缩短等待并促使机构在性价比上竞争 (Commonwealth Fund, 2023)。最好的体系是在底线安全与风险共担规则下引入竞争。
+
+**Verification + final conclusion: limitation/counterpoint + final judgement  
+结尾：验证/评价（局限或反方）+ 最终判断**
+
+The limitation is that one-size-fits-all rules can create bureaucracy. Even so, a balanced approach is strongest: regulate equity and quality, and allow flexibility in delivery and technology.  
+局限在于"一刀切"的规则可能带来官僚成本。尽管如此，更强的做法仍是平衡：监管公平与质量，同时在服务方式和技术上保持灵活。
+
+Word count: 175  
+文末：Word count: 175
+
+**Quick rewrite task (do by hand):**  
+**快速改写任务（手写完成）：**  
+• Add 1 sentence showing a trade‑off (benefit vs cost).  
+加一句"权衡"句（好处 vs 代价）。
+
+**T3 Tariffs, Globalization, and the Business Cycle**  
+**T3 关税、全球化与经济周期**
+
+**Prompt: Analyze how a new tariff affects GDP, inflation, and unemployment. Propose one policy response.**  
+**题目：分析新关税对GDP、通胀、失业的影响，并提出一个政策应对。**
+
+Suggested citations to practice: (WTO, 2024); (World Bank, 2024); (IMF, 2024)  
+建议练习引用：(WTO, 2024); (World Bank, 2024); (IMF, 2024)
+
+**Introduction: Hook + Thesis + preview TS1 + preview TS2  
+引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+
+Short-run wins from tariffs can hide long-run losses. A new tariff usually raises domestic prices and reshapes output and employment through trade flows. I will explain its effects on GDP, inflation, and unemployment, then propose one policy response.  
+关税的短期收益，可能掩盖长期损失。 新关税通常会推高国内价格，并通过贸易流动重塑产出与就业。下面分析它对GDP、通胀和失业的影响，并提出一项政策应对。
+
+**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
+正文1：主题句1 + 事实/例子 + 小结**
+
+Tariffs increase the price of imported goods and inputs, so firms' costs rise and consumers face higher prices. Through a stronger currency effect being offset by higher border prices, real GDP can fall while inflation rises as costs pass through (WTO, 2024). Retaliation and uncertainty can further reduce investment and exports (World Bank, 2024).  
+关税抬高进口商品与投入品价格，企业成本上升、消费者面临更高价格。通过汇率因素被边境价格上升抵消，实际GDP可能下降，而成本传导会推高通胀 (WTO, 2024)。报复与不确定性还会压低投资与出口 (World Bank, 2024)。
+
+**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
+正文2：主题句2 + 事实/例子 + 小结**
+
+Unemployment effects are uneven: protected producers may hire more, but downstream industries that use those inputs may cut jobs. A practical response is use fiscal transfers to offset consumer price increases instead of broad tariffs. This supports incomes and speeds adjustment without locking the economy into permanent protection.  
+失业影响并不均衡：被保护行业可能增聘，但使用这些投入品的下游行业可能裁员。一个可行应对是用财政转移支付抵消物价上涨，而非广泛加税。这能稳定收入、加快调整，同时避免长期保护带来的效率损失。
+
+**Verification + final conclusion: limitation/counterpoint + final judgement  
+结尾：验证/评价（局限或反方）+ 最终判断**
+
+A counterpoint is that tariffs can support strategic resilience, but they should be narrow and time-limited. Overall, tariffs are a costly tool, so targeted support and productivity reforms are usually better.  
+反方认为关税能支持战略韧性，但应当范围小、期限明确。总体判断是：关税成本高，通常不如定向支持与生产率改革有效。
+
+Word count: 172  
+文末：Word count: 172
+
+**Quick rewrite task (do by hand):**  
+**快速改写任务（手写完成）：**  
+• Replace 6 vocabulary words with synonyms (keep meaning).  
+把6个关键词换成同义词（意思不变）。
+
+**T4 Price Ceilings and Floors**  
+**T4 最高限价与最低限价**
+
+**Prompt: Explain the effects of a price ceiling or a price floor on consumers and producers.**  
+**题目：解释最高限价或最低限价对消费者与生产者的影响。**
+
+Suggested citations to practice: (UN Habitat, 2024); (ILO, 2023); (National Statistics, 2024)  
+建议练习引用：(UN Habitat, 2024); (ILO, 2023); (National Statistics, 2024)
+
+**Introduction: Hook + Thesis + preview TS1 + preview TS2  
+引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+
+A higher price is painful, yet a wrong price can be worse. A price ceiling can help some consumers briefly but often creates shortages, while a price floor can support producers or workers but creates surplus or unemployment. I will explain both outcomes with examples.  
+高价很痛，但错误的价格可能更糟。 最高限价可能短期帮助部分消费者，但往往造成短缺；最低限价能支持生产者或劳动者，却会带来过剩或失业。下面用例子解释两者的结果。
+
+**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
+正文1：主题句1 + 事实/例子 + 小结**
+
+A ceiling below equilibrium raises quantity demanded and reduces quantity supplied, creating a shortage. In practice, medicine price caps that may reduce availability if supply is constrained, leading to rationing, reduced quality, and sometimes informal markets (UN Habitat, 2024). The benefit goes to those who still obtain the good, while others pay with time or no access.  
+当最高限价低于均衡价时，需求增加、供给减少，结果是短缺。现实中，药品限价在供给受限时可能减少可得性，从而出现配给、质量下降，甚至非正规市场 (UN Habitat, 2024)。能买到的人受益，其他人用排队时间或"买不到"来付出代价。
+
+**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
+正文2：主题句2 + 事实/例子 + 小结**
+
+A floor above equilibrium increases quantity supplied and reduces quantity demanded, so surplus appears. For example, a floor on taxi fares that raises driver income but reduces consumer surplus, which can require storage, buybacks, or reduced hiring (ILO, 2023). Some groups gain, but society pays through higher prices, taxes, or unemployment.  
+当最低限价高于均衡价时，供给超过需求，形成过剩。例如出租车底价提高司机收入但减少消费者剩余，可能需要收储、回购，或导致减少雇佣 (ILO, 2023)。部分群体获益，但社会付出更高价格、税负或失业成本。
+
+**Verification + final conclusion: limitation/counterpoint + final judgement  
+结尾：验证/评价（局限或反方）+ 最终判断**
+
+In emergencies, temporary ceilings may limit price gouging, which is an important limitation. Still, controls work best only when paired with supply expansion or targeted transfers; otherwise, hidden costs grow.  
+在紧急情况下，临时限价能抑制哄抬价格，这是重要补充。但管制只有与增加供给或定向补贴配套才更有效，否则隐性成本会不断累积。
+
+Word count: 181  
+文末：Word count: 181
+
+**Quick rewrite task (do by hand):**  
+**快速改写任务（手写完成）：**  
+• Add one counter‑argument sentence in Verification for every topic.  
+每个主题在验证部分都加一句反方观点。
+
+**T5 Inflation, CPI, and Interest Rates**  
+**T5 通胀、CPI与利率**
+
+**Prompt: Explain causes of inflation and how central banks respond using interest rates.**  
+**题目：解释通胀原因以及央行如何用利率应对。**
+
+Suggested citations to practice: (BIS, 2023); (IMF, 2024); (National Statistics, 2023)  
+建议练习引用：(BIS, 2023); (IMF, 2024); (National Statistics, 2023)
+
+**Introduction: Hook + Thesis + preview TS1 + preview TS2  
+引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+
+Inflation feels like your money shrinking while you stand still. Inflation comes from demand pressure, supply shocks, and expectations. I will explain key causes and how central banks use interest rates to bring inflation down.  
+通胀就像你站着不动，但钱却在变小。 通胀来自需求压力、供给冲击与预期。下面解释主要成因，以及央行如何通过利率降低通胀。
+
+**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
+正文1：主题句1 + 事实/例子 + 小结**
+
+One major driver is currency depreciation that raises import prices. When spending or costs rise faster than output, firms raise prices, and expectations can make inflation persistent (BIS, 2023). If workers and firms expect inflation to continue, they set wages and prices higher today, reinforcing the cycle (IMF, 2024).  
+一个重要驱动是货币贬值推高进口价格。当支出或成本上涨快于产出时，企业提价，而预期会让通胀更持久 (BIS, 2023)。如果公众预期通胀持续，工资与价格谈判就会更高，从而强化循环 (IMF, 2024)。
+
+**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
+正文2：主题句2 + 事实/例子 + 小结**
+
+Central banks respond by raising policy interest rates. Through higher borrowing costs cool credit growth and big-ticket purchases, credit and spending cool, so demand pressure falls and price growth slows. Because policy works with a lag, clear communication helps anchor expectations and reduce the required tightening.  
+央行通常通过提高政策利率应对。通过借贷成本上升抑制信贷扩张与大额消费，信贷与支出降温，需求压力下降，价格涨幅放缓。由于政策有滞后，清晰沟通能锚定预期，减少需要的收紧幅度。
+
+**Verification + final conclusion: limitation/counterpoint + final judgement  
+结尾：验证/评价（局限或反方）+ 最终判断**
+
+The limitation is that higher rates can increase unemployment in the short run. Therefore, central banks often tighten gradually while governments address supply bottlenecks; overall, interest rates remain the core tool.  
+局限是利率上升可能在短期推高失业。因此央行往往循序渐进收紧，同时政府解决供给瓶颈；总体上利率仍是核心工具。
+
+Word count: 160  
+文末：Word count: 160
+
+**Quick rewrite task (do by hand):**  
+**快速改写任务（手写完成）：**  
+• Improve clarity: shorten long sentences and keep each paragraph focused on one idea.  
+提升清晰度：缩短长句，每段只讲一个核心点。
+
+**T6 GDP and Standard of Living**  
+**T6 GDP与生活水平**
+
+**Prompt: Explain why GDP may not fully measure standard of living and suggest one better indicator.**  
+**题目：解释为什么GDP不能完全衡量生活水平，并提出一个更好的指标。**
+
+Suggested citations to practice: (World Bank, 2024); (OECD, 2024); (UNDP, 2023)  
+建议练习引用：(World Bank, 2024); (OECD, 2024); (UNDP, 2023)
+
+**Introduction: Hook + Thesis + preview TS1 + preview TS2  
+引言：钩子 + 论点 + 主题句1预览 + 主题句2预览**
+
+GDP counts output, not wellbeing. GDP is important for tracking output, but it does not fully measure living standards. I will explain two limitations and then suggest one better indicator.  
+GDP统计产出，却不直接统计福祉。 GDP用于追踪产出很重要，但不能完全衡量生活水平。下面说明两点局限，再提出一个更好的指标。
+
+**Body paragraph 1: Topic sentence 1 + facts/examples + mini conclusion  
+正文1：主题句1 + 事实/例子 + 小结**
+
+GDP counts market activity, not wellbeing. For example, it does not subtract environmental damage or resource depletion, and it ignores how income is distributed across households, so policymakers may miss real problems (World Bank, 2024). A country can grow while health, environment, or security worsens.  
+GDP统计市场活动，却不等同于福祉。例如它不扣除环境损害与资源消耗，以及它忽视收入在家庭之间的分配，这会让政策忽视真实问题 (World Bank, 2024)。一个国家可能增长，但健康、环境或安全在变差。
+
+**Body paragraph 2: Topic sentence 2 + facts/examples + mini conclusion  
+正文2：主题句2 + 事实/例子 + 小结**
+
+A better indicator is a wellbeing dashboard like the OECD Better Life approach. It adds health, education, environment, or typical income, which links more directly to how people live (OECD, 2024). In practice, using a small dashboard of indicators alongside GDP gives a clearer picture.  
+一个更好的指标是采用类似OECD"更美好生活"的福祉仪表盘。它加入健康、教育、环境或典型收入等维度，更直接对应人们的真实生活 (OECD, 2024)。实践中，把这些指标与GDP一起做成小型"仪表盘"，会更清晰。
+
+**Verification + final conclusion: limitation/counterpoint + final judgement  
+结尾：验证/评价（局限或反方）+ 最终判断**
+
+The limitation is that wellbeing indices require judgement about weights. Even so, the best approach is to keep GDP for output and use broader indicators to judge living standards.  
+局限在于福祉指标需要设定权重，带有判断性。尽管如此，最佳做法仍是：GDP用于产出，生活水平用更全面的指标评估。
+
+Word count: 147  
+文末：Word count: 147
+
+**Quick rewrite task (do by hand):**  
+**快速改写任务（手写完成）：**  
+• Rewrite every thesis sentence in your own words before you rewrite the essay.  
+在改写作文前，先把每个论点用自己的话改写一遍。
